@@ -17,6 +17,7 @@ import os
 import sys
 import time
 import shutil
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -26,6 +27,9 @@ BASE = f"https://graph.instagram.com/{API_VERSION}"
 
 QUEUE = Path("posts/queue")
 DONE = Path("posts/done")
+LAST = Path("posts/last_posted.txt")
+JST = timezone(timedelta(hours=9))
+EARLIEST_HOUR = 5  # 朝5時より前は投稿しない
 
 IMAGE_EXT = (".jpg", ".jpeg")
 VIDEO_EXT = (".mp4",)
@@ -93,6 +97,18 @@ def main():
     token = os.environ["IG_TOKEN"]
     user_id = os.environ["IG_USER_ID"]
 
+    # 手動実行（Run workflow）のときは、時間と1日1本のチェックを飛ばす
+    manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    now = datetime.now(JST)
+    today = now.strftime("%Y-%m-%d")
+    if not manual:
+        if now.hour < EARLIEST_HOUR:
+            print(f"🌙 まだ{now:%H:%M}。朝{EARLIEST_HOUR}時までは待つ")
+            return
+        if LAST.exists() and LAST.read_text().strip() == today:
+            print("✅ 今日はもう投稿済みなので、何もしない")
+            return
+
     media, caption_file = find_next_post()
     if media is None:
         print("📭 投稿待ちのネタがないので、今日は何もしない")
@@ -112,6 +128,7 @@ def main():
     shutil.move(str(caption_file), DONE / caption_file.name)
     # queue フォルダが空になって消えないように目印を置いておく
     (QUEUE / ".gitkeep").touch()
+    LAST.write_text(today)
 
 
 if __name__ == "__main__":
