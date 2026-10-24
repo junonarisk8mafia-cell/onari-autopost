@@ -30,6 +30,8 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
         run: python post.py
       - name: Save posted files
         run: |

@@ -93,6 +93,61 @@ def publish(user_id, token, container_id):
     return r.json()["id"]
 
 
+THREADS_BASE = "https://graph.threads.net/v1.0"
+THREADS_TAG = "#借金溶接工の逆転日記"
+
+
+def threads_text(caption: str) -> str:
+    """Threads はタグが1投稿1個までなので、ハッシュタグ行を外してタグを1つだけ付ける"""
+    lines = [l for l in caption.splitlines() if not l.strip().startswith("#")]
+    body = "\n".join(lines).strip()
+    text = f"{body}\n\n{THREADS_TAG}"
+    return text[:500]
+
+
+def post_to_threads(media: Path, caption: str):
+    """Threads にも同じ内容を投稿する。設定がない・失敗しても Instagram 側には影響させない"""
+    token = os.environ.get("THREADS_TOKEN")
+    user_id = os.environ.get("THREADS_USER_ID")
+    if not token or not user_id:
+        print("ℹ️ Threads の設定がないので、Threads はスキップ")
+        return
+    try:
+        is_video = media.suffix.lower() in VIDEO_EXT
+        data = {"text": threads_text(caption), "access_token": token}
+        if is_video:
+            data.update({"media_type": "VIDEO", "video_url": public_url(media)})
+        else:
+            data.update({"media_type": "IMAGE", "image_url": public_url(media)})
+        r = requests.post(f"{THREADS_BASE}/{user_id}/threads", data=data, timeout=60)
+        if not r.ok:
+            print(f"⚠️ Threads の準備に失敗: {r.status_code} {r.text}")
+            return
+        cid = r.json()["id"]
+        tries, interval = (40, 10) if is_video else (10, 5)
+        for _ in range(tries):
+            s = requests.get(f"{THREADS_BASE}/{cid}",
+                             params={"fields": "status,error_message", "access_token": token}, timeout=30)
+            status = s.json().get("status") if s.ok else None
+            if status == "FINISHED":
+                break
+            if status == "ERROR":
+                print(f"⚠️ Threads 側で処理に失敗: {s.text}")
+                return
+            time.sleep(interval)
+        else:
+            print("⚠️ Threads の処理が時間内に終わらなかった")
+            return
+        p = requests.post(f"{THREADS_BASE}/{user_id}/threads_publish",
+                          data={"creation_id": cid, "access_token": token}, timeout=60)
+        if not p.ok:
+            print(f"⚠️ Threads の公開に失敗: {p.status_code} {p.text}")
+            return
+        print(f"✅ Threads にも投稿完了！ id: {p.json().get('id')}")
+    except Exception as e:  # Threads の不具合で Instagram の記録が壊れないようにする
+        print(f"⚠️ Threads でエラー: {e}")
+
+
 def main():
     token = os.environ["IG_TOKEN"]
     user_id = os.environ["IG_USER_ID"]
@@ -122,6 +177,9 @@ def main():
     wait_until_ready(container_id, token, is_video)
     media_id = publish(user_id, token, container_id)
     print(f"✅ 投稿完了！ media id: {media_id}")
+
+    # done/ へ移動する前に（同じURLのまま）Threads にも投稿する
+    post_to_threads(media, caption)
 
     DONE.mkdir(parents=True, exist_ok=True)
     shutil.move(str(media), DONE / media.name)
