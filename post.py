@@ -108,8 +108,9 @@ def threads_text(caption: str) -> str:
 def post_to_threads(media: Path, caption: str):
     """Threads にも同じ内容を投稿する。設定がない・失敗しても Instagram 側には影響させない"""
     token = os.environ.get("THREADS_TOKEN")
-    user_id = os.environ.get("THREADS_USER_ID")
-    if not token or not user_id:
+    # ユーザーIDが未登録なら "me"（トークンの持ち主）で投稿する
+    user_id = os.environ.get("THREADS_USER_ID") or "me"
+    if not token:
         print("ℹ️ Threads の設定がないので、Threads はスキップ")
         return
     try:
