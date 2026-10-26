@@ -1,0 +1,47 @@
+name: X Auto Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "投稿する日付（例 2026-10-28）。空なら今日"
+        required: false
+  schedule:
+    # 日本時間 6:47 / 7:17 に起動（cron は UTC 表記）。GitHub は数分遅れることがある
+    # 2回目は1回目が動かなかったときの保険。投稿済みなら何もしない
+    - cron: "47 21 * * *"
+    - cron: "17 22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: x-autopost
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install requests requests-oauthlib
+      - name: Post to X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          X_POST_DATE: ${{ github.event.inputs.date }}
+        run: python x_post.py
+      - name: Save posted record
+        run: |
+          git config user.name "onari-bot"
+          git config user.email "onari-bot@users.noreply.github.com"
+          git add x/posted.json
+          git diff --cached --quiet || git commit -m "x posted: $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+          git pull --rebase
+          git push
