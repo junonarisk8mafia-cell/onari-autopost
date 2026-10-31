@@ -1,0 +1,49 @@
+name: Threads Auto Post
+
+on:
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "投稿する日付（例 2026-11-02）。空なら今日"
+        required: false
+      dry_run:
+        description: "1 にすると投稿せずに中身だけ表示（テスト用）"
+        required: false
+  schedule:
+    # 日本時間 6:12 / 7:42 に起動（cron は UTC 表記）。GitHub は遅れることがある
+    # 2回目は保険。その日もう投稿していれば何もしない
+    - cron: "12 21 * * *"
+    - cron: "42 22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: threads-autopost
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install requests
+      - name: Post to Threads
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_POST_DATE: ${{ github.event.inputs.date }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python threads_post.py
+      - name: Save posted record
+        run: |
+          git config user.name "onari-bot"
+          git config user.email "onari-bot@users.noreply.github.com"
+          git add threads/posted.json 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "threads posted: $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+          git pull --rebase
+          git push

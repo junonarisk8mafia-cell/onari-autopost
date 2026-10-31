@@ -71,11 +71,24 @@ def tweet(oauth, text, media_id=None, reply_to=None) -> str:
 
 
 def main():
+    today = os.environ.get("X_POST_DATE") or datetime.now(JST).strftime("%Y-%m-%d")
+
+    # DRY_RUN=1 のときは投稿せず、その日に出る予定の中身を表示するだけ（テスト用）
+    if os.environ.get("DRY_RUN") == "1":
+        posts = json.loads(POSTS.read_text(encoding="utf-8"))["posts"]
+        post = next((p for p in posts if p["date"] == today), None)
+        if post is None:
+            print(f"🧪 [DRY RUN] {today} の X の予定はなし")
+            return
+        print(f"🧪 [DRY RUN] {today} 本文:\n{post['text']}")
+        for i, reply in enumerate(post.get("replies", []), 1):
+            print(f"🧪 ツリー{i}:\n{reply}")
+        return
+
     oauth = auth()
     if oauth is None:
         return
 
-    today = os.environ.get("X_POST_DATE") or datetime.now(JST).strftime("%Y-%m-%d")
     posted = json.loads(POSTED.read_text(encoding="utf-8")) if POSTED.exists() else {}
     if today in posted:
         print(f"✅ {today} はもう投稿済みなので、何もしない")

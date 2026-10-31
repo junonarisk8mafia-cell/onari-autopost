@@ -6,6 +6,9 @@ on:
       date:
         description: "投稿する日付（例 2026-10-28）。空なら今日"
         required: false
+      dry_run:
+        description: "1 にすると投稿せずに中身だけ表示（テスト用）"
+        required: false
   schedule:
     # 日本時間 6:47 / 7:17 に起動（cron は UTC 表記）。GitHub は数分遅れることがある
     # 2回目は1回目が動かなかったときの保険。投稿済みなら何もしない
@@ -36,6 +39,7 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           X_POST_DATE: ${{ github.event.inputs.date }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
         run: python x_post.py
       - name: Save posted record
         run: |
