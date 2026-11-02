@@ -9,11 +9,11 @@ on:
       dry_run:
         description: "1 にすると投稿せずに中身だけ表示（テスト用）"
         required: false
-  schedule:
+  # schedule: 課金するまで止める（手動投稿に切り替え）
     # 日本時間 6:47 / 7:17 に起動（cron は UTC 表記）。GitHub は数分遅れることがある
     # 2回目は1回目が動かなかったときの保険。投稿済みなら何もしない
-    - cron: "47 21 * * *"
-    - cron: "17 22 * * *"
+    # - cron: "47 21 * * *"
+    # - cron: "17 22 * * *"
 
 permissions:
   contents: write
