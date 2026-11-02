@@ -54,6 +54,7 @@ def upload_image(oauth, path: Path) -> str:
     with open(path, "rb") as f:
         r = requests.post(MEDIA_URL_V1, auth=oauth, files={"media": f}, timeout=120)
     if not r.ok:
+        print(f"::error title=X upload failed::{r.status_code} {r.text[:300]}")
         sys.exit(f"❌ 画像のアップロードに失敗: {r.status_code} {r.text}")
     return r.json()["media_id_string"]
 
@@ -66,6 +67,7 @@ def tweet(oauth, text, media_id=None, reply_to=None) -> str:
         body["reply"] = {"in_reply_to_tweet_id": reply_to}
     r = requests.post(TWEET_URL, auth=oauth, json=body, timeout=60)
     if not r.ok:
+        print(f"::error title=X post failed::{r.status_code} {r.text[:300]}")
         sys.exit(f"❌ 投稿に失敗: {r.status_code} {r.text}")
     return r.json()["data"]["id"]
 
