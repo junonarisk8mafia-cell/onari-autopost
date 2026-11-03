@@ -29,6 +29,17 @@ def fail(msg):
     sys.exit(f"❌ {msg}")
 
 
+def page_token(page, token):
+    """ユーザー用の鍵が入っていても、そこからページ用の鍵を取り出して使う"""
+    me = requests.get(f"{GRAPH}/me", params={"fields": "id", "access_token": token}, timeout=30).json()
+    if str(me.get("id")) == str(page):
+        return token, False
+    r = requests.get(f"{GRAPH}/{page}", params={"fields": "access_token", "access_token": token}, timeout=30).json()
+    if not r.get("access_token"):
+        fail(f"ページ用の鍵を取り出せない {str(r)[:200]}")
+    return r["access_token"], True
+
+
 def check():
     page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
     if not page or not token: fail("FB_PAGE_ID / FB_PAGE_TOKEN が登録されていない")
@@ -42,7 +53,10 @@ def check():
     print(f"::warning title=この鍵の持ち主::{me.get('name')} ({me.get('id')}) type={d.get('type')} expires={d.get('expires_at')}")
     exp = d.get("expires_at")
     print(f"種類: {d.get('type')}  期限: {'なし' if not exp else exp}  権限: {', '.join(d.get('scopes', []))}")
-    if str(me.get("id")) != str(page): fail("ページ用の鍵ではない（ユーザー用の鍵が入っている）")
+    pt, derived = page_token(page, token)
+    who = requests.get(f"{GRAPH}/me", params={"fields": "id,name", "access_token": pt}, timeout=30).json()
+    print(f"::warning title=投稿に使う鍵::{who.get('name')} ({who.get('id')}) {'ユーザーの鍵から自動で取り出した' if derived else 'ページの鍵'}")
+    if str(who.get("id")) != str(page): fail("ページとして投稿できない")
     if exp: print(f"::warning title=期限あり::この鍵には期限がある（{exp}）。長期の鍵から作り直すと期限なしになる")
 
 
@@ -66,6 +80,7 @@ def main():
     page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
     if not page or not token:
         print("ℹ️ FB_PAGE_ID / FB_PAGE_TOKEN がまだ登録されていないので何もしない"); return
+    token, _ = page_token(page, token)
 
     r = requests.post(f"{GRAPH}/{page}/video_reels", json={"upload_phase": "start", "access_token": token}, timeout=60)
     if r.status_code != 200: fail(f"開始に失敗 {r.status_code} {r.text}")
