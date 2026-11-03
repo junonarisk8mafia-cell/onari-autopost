@@ -9,6 +9,9 @@ on:
       dry_run:
         description: "1 にすると投稿せずに中身だけ表示（テスト用）"
         required: false
+      check:
+        description: "1 にすると投稿せずに鍵だけ確認"
+        required: false
   schedule:
     # 日本時間 18:12 / 19:42（フィリピンの夕方） に起動（cron は UTC 表記）。2回目は保険。投稿済みなら何もしない
     - cron: "12 9 * * *"
@@ -37,6 +40,7 @@ jobs:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FB_POST_DATE: ${{ github.event.inputs.date }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}
+          CHECK: ${{ github.event.inputs.check }}
         run: python fb_post.py
       - name: Save posted record
         run: |

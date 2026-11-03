@@ -29,7 +29,22 @@ def fail(msg):
     sys.exit(f"❌ {msg}")
 
 
+def check():
+    page, token = os.environ.get("FB_PAGE_ID"), os.environ.get("FB_PAGE_TOKEN")
+    if not page or not token: fail("FB_PAGE_ID / FB_PAGE_TOKEN が登録されていない")
+    r = requests.get(f"{GRAPH}/{page}", params={"fields": "id,name", "access_token": token}, timeout=30)
+    if r.status_code != 200: fail(f"ページに届かない {r.status_code} {r.text}")
+    print(f"✅ ページに接続できた: {r.json().get('name')}")
+    d = requests.get(f"{GRAPH}/debug_token", params={"input_token": token, "access_token": token}, timeout=30).json().get("data", {})
+    exp = d.get("expires_at")
+    print(f"種類: {d.get('type')}  期限: {'なし' if not exp else exp}  権限: {', '.join(d.get('scopes', []))}")
+    if d.get("type") != "PAGE": fail("ページ用の鍵ではない（ユーザー用の鍵が入っている）")
+    if exp: print(f"::warning title=期限あり::この鍵には期限がある（{exp}）。長期の鍵から作り直すと期限なしになる")
+
+
 def main():
+    if os.environ.get("CHECK") == "1":
+        return check()
     day = today()
     posts = {p["date"]: p for p in json.loads(SCHED.read_text(encoding="utf-8"))["posts"]}
     posted = json.loads(POSTED.read_text(encoding="utf-8"))
