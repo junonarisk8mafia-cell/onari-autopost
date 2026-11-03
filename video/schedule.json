@@ -1,4 +1,13 @@
 {
   "_説明": "YouTube と Facebook に出す動画の予定。date の日に、file の動画をそれぞれの係が投稿する。動画は video/files/ に置く。",
-  "posts": []
+  "posts": [
+    {
+      "date": "2026-11-04",
+      "file": "s1_ep1.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "I'm a shipyard welder in Japan. 3 kids. ¥8,000,000 in debt.\n\nThis is Episode 1 of my comeback. Every step, right here. 🔥\n\nKaya natin 'to. Laban lang! 🇯🇵🇵🇭\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
+    }
+  ]
 }
