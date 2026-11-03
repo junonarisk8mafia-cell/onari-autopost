@@ -35,10 +35,14 @@ def check():
     r = requests.get(f"{GRAPH}/{page}", params={"fields": "id,name", "access_token": token}, timeout=30)
     if r.status_code != 200: fail(f"ページに届かない {r.status_code} {r.text}")
     print(f"✅ ページに接続できた: {r.json().get('name')}")
-    d = requests.get(f"{GRAPH}/debug_token", params={"input_token": token, "access_token": token}, timeout=30).json().get("data", {})
+    raw = requests.get(f"{GRAPH}/debug_token", params={"input_token": token, "access_token": token}, timeout=30).json()
+    d = raw.get("data", {})
+    if not d: print(f"::warning title=debug_token::{str(raw)[:250]}")
+    me = requests.get(f"{GRAPH}/me", params={"fields": "id,name", "access_token": token}, timeout=30).json()
+    print(f"::warning title=この鍵の持ち主::{me.get('name')} ({me.get('id')}) type={d.get('type')} expires={d.get('expires_at')}")
     exp = d.get("expires_at")
     print(f"種類: {d.get('type')}  期限: {'なし' if not exp else exp}  権限: {', '.join(d.get('scopes', []))}")
-    if d.get("type") != "PAGE": fail("ページ用の鍵ではない（ユーザー用の鍵が入っている）")
+    if str(me.get("id")) != str(page): fail("ページ用の鍵ではない（ユーザー用の鍵が入っている）")
     if exp: print(f"::warning title=期限あり::この鍵には期限がある（{exp}）。長期の鍵から作り直すと期限なしになる")
 
 
