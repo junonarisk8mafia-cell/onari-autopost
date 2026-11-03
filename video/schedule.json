@@ -1,0 +1,4 @@
+{
+  "_説明": "YouTube と Facebook に出す動画の予定。date の日に、file の動画をそれぞれの係が投稿する。動画は video/files/ に置く。",
+  "posts": []
+}
