@@ -29,7 +29,7 @@ QUEUE = Path("posts/queue")
 DONE = Path("posts/done")
 LAST = Path("posts/last_posted.txt")
 JST = timezone(timedelta(hours=9))
-EARLIEST_HOUR = 5  # 朝5時より前は投稿しない
+EARLIEST_HOUR = 18  # 夕方6時より前は投稿しない（見られてるのは18〜21時）
 
 IMAGE_EXT = (".jpg", ".jpeg")
 VIDEO_EXT = (".mp4",)
@@ -103,7 +103,7 @@ def main():
     today = now.strftime("%Y-%m-%d")
     if not manual:
         if now.hour < EARLIEST_HOUR:
-            print(f"🌙 まだ{now:%H:%M}。朝{EARLIEST_HOUR}時までは待つ")
+            print(f"🌙 まだ{now:%H:%M}。{EARLIEST_HOUR}時までは待つ")
             return
         if LAST.exists() and LAST.read_text().strip() == today:
             print("✅ 今日はもう投稿済みなので、何もしない")

@@ -9,6 +9,7 @@ video/schedule.json の今日（日本時間）の分を、Facebook ページの
 """
 import json, os, sys, time
 from datetime import datetime, timedelta, timezone
+JST = timezone(timedelta(hours=9))
 from pathlib import Path
 import requests
 
@@ -63,6 +64,9 @@ def check():
 def main():
     if os.environ.get("CHECK") == "1":
         return check()
+    now = datetime.now(JST)
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and now.hour < 19:
+        print(f"🌙 まだ{now:%H:%M}（日本）。19時（フィリピン18時）までは待つ"); return
     day = today()
     posts = {p["date"]: p for p in json.loads(SCHED.read_text(encoding="utf-8"))["posts"]}
     posted = json.loads(POSTED.read_text(encoding="utf-8"))

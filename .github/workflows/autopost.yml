@@ -3,11 +3,9 @@ name: Instagram Auto Post
 on:
   workflow_dispatch:
   schedule:
-    # 日本時間 3:37 / 4:37 / 5:37 に起動（cron は UTC 表記）
-    # 朝5時前なら待ち、その日まだ投稿していなければ1本だけ投稿する
-    - cron: "37 18 * * *"
-    - cron: "37 19 * * *"
-    - cron: "37 20 * * *"
+    # 日本時間 15:07〜23:37 に30分ごと起動（cron は UTC 表記）。GitHub は数時間遅れるので早めから置く
+    # 18時より前に動いた回は待つだけ。その日もう投稿していれば何もしない
+    - cron: "7,37 6-14 * * *"
 
 permissions:
   contents: write
@@ -21,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # 待ってる間に別の回が投稿していても、最新の記録を読む（二重投稿防止）
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"

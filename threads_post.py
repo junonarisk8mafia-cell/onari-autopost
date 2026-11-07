@@ -25,6 +25,7 @@ import requests
 POSTS = Path("threads/posts.json")
 POSTED = Path("threads/posted.json")
 JST = timezone(timedelta(hours=9))
+EARLIEST_HOUR = 18  # 夕方6時より前は投稿しない（見られてるのは18〜21時）
 BASE = "https://graph.threads.net/v1.0"
 MAX_CHARS = 500
 
@@ -58,7 +59,11 @@ def publish_text(token, user_id, text):
 
 def main():
     dry = os.environ.get("DRY_RUN") == "1"
-    today = os.environ.get("THREADS_POST_DATE") or datetime.now(JST).strftime("%Y-%m-%d")
+    now = datetime.now(JST)
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and now.hour < EARLIEST_HOUR:
+        print(f"🌙 まだ{now:%H:%M}。{EARLIEST_HOUR}時までは待つ")
+        return
+    today = os.environ.get("THREADS_POST_DATE") or now.strftime("%Y-%m-%d")
     posted = json.loads(POSTED.read_text(encoding="utf-8")) if POSTED.exists() else {}
     if today in posted:
         print(f"✅ {today} はもう投稿済みなので、何もしない")
