@@ -1,0 +1,88 @@
+{
+  "fetched_at": "2026-11-08T17:25+09:00",
+  "page": {
+    "name": "Debt Welder Japan - Onari Creations",
+    "followers_count": 1,
+    "fan_count": 1,
+    "link": "https://www.facebook.com/1342658825601783",
+    "id": "1342658825601783"
+  },
+  "page_insights": {
+    "_error": "(#100) The value must be a valid insights metric"
+  },
+  "reels": [
+    {
+      "id": "1469031275180084",
+      "created_time": "2026-10-15T02:20:12+0000",
+      "length": 15.6,
+      "permalink": "/reel/1469031275180084/",
+      "description": "本屋にはAIの本が山ほどあった。\nClaude、ChatGPT、Gemini…\n\nでも「溶接×AI」の本は、1冊もなかった。\n\nだから、自分で作る。\n外国人の仲間が溶接や玉掛けを楽しく覚えられるアプリ「FORGE」シリーズ。\n\n現場の知識は",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "1763962504715548",
+      "date": "2026-11-04",
+      "file": "s1_ep1.mp4",
+      "created_time": "2026-11-03T20:55:45+0000",
+      "length": 22,
+      "permalink": "/reel/1763962504715548/",
+      "description": "I'm a shipyard welder in Japan. 3 kids. ¥8,000,000 in debt.\n\nThis is Episode 1 of my comeback. Every step, right here. 🔥",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "28724410773907883",
+      "date": "2026-11-05",
+      "file": "s1_ep2.mp4",
+      "created_time": "2026-11-04T17:13:15+0000",
+      "length": 23.5,
+      "permalink": "/reel/28724410773907883/",
+      "description": "Tax. Health insurance. Pension. All overdue.\nIn Japan, these letters never stop.\n\nEpisode 2. Either I go down fighting, ",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "1744090550012767",
+      "date": "2026-11-06",
+      "file": "s1_ep3.mp4",
+      "created_time": "2026-11-05T17:23:00+0000",
+      "length": 21.5,
+      "permalink": "/reel/1744090550012767/",
+      "description": "I pay ¥200,000 a month. My debt goes down only ¥60,000.\nWorking more wasn't going to save me.\n\nEpisode 3. I needed a dif",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "1140157578474041",
+      "date": "2026-11-07",
+      "file": "s1_ep4.mp4",
+      "created_time": "2026-11-06T16:45:35+0000",
+      "length": 26.5,
+      "permalink": "/reel/1140157578474041/",
+      "description": "\"Dad, you look so tired.\"\nMy kids say it almost every day.\n\nEpisode 4. 3 kids. 3 reasons I can't quit. ❤️\n\nPara sa mga m",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    }
+  ]
+}
