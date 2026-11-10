@@ -1,29 +1,47 @@
 {
- "fetched_at": "2026-11-10T10:24+09:00",
+ "fetched_at": "2026-11-10T21:31+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
-   "followers_count": 13,
-   "media_count": 78,
+   "followers_count": 15,
+   "media_count": 79,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18115558556124631",
+    "time": "2026-11-10T10:11:15+0000",
+    "type": "VIDEO",
+    "caption": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
+    "permalink": "https://www.instagram.com/reel/DfjqS8nmWV7/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 120,
+     "reach": 108,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18113058701220613",
     "time": "2026-11-09T09:38:02+0000",
     "type": "VIDEO",
     "caption": "【速報】造船に1兆円、入るらしい。  政府の「造船業再生ロードマップ」。 2035年までに国内の建造量を倍増。 官民で1",
     "permalink": "https://www.instagram.com/reel/DfhBpvqDz1D/",
-    "likes": 3,
+    "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 670,
-     "reach": 570,
-     "likes": 3,
+     "views": 1085,
+     "reach": 921,
+     "likes": 5,
      "comments": 0,
      "shares": 0,
      "saved": 0,
-     "total_interactions": 4
+     "total_interactions": 6
     }
    },
    {
@@ -35,8 +53,8 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 220,
-     "reach": 184,
+     "views": 222,
+     "reach": 185,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -107,8 +125,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 453,
-     "reach": 331,
+     "views": 456,
+     "reach": 332,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -233,8 +251,8 @@
     "likes": 3,
     "comments": 0,
     "insights": {
-     "views": 751,
-     "reach": 649,
+     "views": 753,
+     "reach": 650,
      "likes": 3,
      "comments": 0,
      "shares": 0,
@@ -529,24 +547,6 @@
      "saved": 1,
      "total_interactions": 1
     }
-   },
-   {
-    "id": "18092146568679010",
-    "time": "2026-10-10T01:19:21+0000",
-    "type": "IMAGE",
-    "caption": "借金は、人生の終わりじゃない。 逆転の始まりだ。  …と、自分に言い聞かせてる。  毎日できることは、たいしたことじゃな",
-    "permalink": "https://www.instagram.com/p/DeS4zbNiS_n/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 2,
-     "reach": 2,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 958,
-       "end_time": "2026-11-08T08:00:00+0000"
+       "value": 6463,
+       "end_time": "2026-11-09T08:00:00+0000"
       },
       {
-       "value": 4660,
-       "end_time": "2026-11-09T08:00:00+0000"
+       "value": 969,
+       "end_time": "2026-11-10T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 46
+      "value": 9
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 8
+      "value": 0
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -596,26 +596,54 @@
      "title": "followers_count",
      "description": "This is your total number of followers on Threads.",
      "total_value": {
-      "value": 10
+      "value": 11
      },
      "id": "17841416095292156/insights/followers_count/day"
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794101079&until=1794187479",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794273881&until=1794360281"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794141117&until=1794227517",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794313919&until=1794400319"
    }
   },
   "posts": [
+   {
+    "id": "18089811731295230",
+    "time": "2026-11-10T12:03:40+0000",
+    "text": "しまむらのセールが話題になってる。  作業着、前みたいに買えなくなった。 溶接の火花で、すぐ穴があく。 なのに値段は上が",
+    "permalink": "https://www.threads.com/@onaricreations/post/Dfj3MClnIfB",
+    "insights": {
+     "views": 0,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
+   {
+    "id": "18131102602852554",
+    "time": "2026-11-10T10:10:29+0000",
+    "text": "実習生に、現場用語が伝わらない。  「開先とって」 「仮付けしといて」 「ケガキ線どこ？」  日本人の新人でも最初わから",
+    "permalink": "https://www.threads.com/@onaricreations/post/DfjqO8OlYkH",
+    "insights": {
+     "views": 262,
+     "likes": 2,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "17979507536931151",
     "time": "2026-11-09T21:36:33+0000",
     "text": "「物価が上がってる」と感じてる人、99.4%。 家計が苦しくなった人、88.2%。 （2026年9月の調査）  残りの0",
     "permalink": "https://www.threads.com/@onaricreations/post/DfiT9vUEkTZ",
     "insights": {
-     "views": 60,
+     "views": 87,
      "likes": 1,
-     "replies": 0,
+     "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
@@ -627,9 +655,9 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 3934,
-     "likes": 43,
-     "replies": 6,
+     "views": 5822,
+     "likes": 65,
+     "replies": 9,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
@@ -641,7 +669,7 @@
     "text": "将来不安  20〜30代の4割以上が「次に何をすべきかわからない」らしい。 分かる。俺も昔そうだった。 今の俺の答えはシ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfgsgRamYmJ",
     "insights": {
-     "views": 118,
+     "views": 141,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -655,7 +683,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1653,
+     "views": 1673,
      "likes": 44,
      "replies": 3,
      "reposts": 0,
@@ -669,7 +697,7 @@
     "text": "造船所で溶接してる借金持ちの職人です。  求人票、ちゃんと最後まで読んでる？ 全部好条件に見える4つ、あなたならどれに応",
     "permalink": "https://www.threads.com/@onaricreations/post/DfbyZ18Gcf0",
     "insights": {
-     "views": 254,
+     "views": 270,
      "likes": 2,
      "replies": 1,
      "reposts": 0,
@@ -683,7 +711,7 @@
     "text": "金曜。今週も月曜から火花浴びた。  作業着、まじで穴だらけ。 最近の作業着、バリ高いしなぁ。  職人のみんな、最近の作業",
     "permalink": "https://www.threads.com/@onaricreations/post/DfYY5A2mmgE",
     "insights": {
-     "views": 400,
+     "views": 410,
      "likes": 3,
      "replies": 0,
      "reposts": 0,
@@ -697,7 +725,7 @@
     "text": "子どもによく言われる。 「お父さん、しんどそうな顔してる」  まじでしんどい。 けど、子どもの顔見ると諦められない。  ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfVuvQdGgzx",
     "insights": {
-     "views": 1771,
+     "views": 1780,
      "likes": 28,
      "replies": 6,
      "reposts": 0,
@@ -711,7 +739,7 @@
     "text": "火花の中だけは、借金を忘れられる。 正直、現実逃避ができる。  面を外した瞬間に、全部戻ってくる。  仕事中だけ無になれ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfTHUF7FWQt",
     "insights": {
-     "views": 999,
+     "views": 1008,
      "likes": 11,
      "replies": 6,
      "reposts": 0,
@@ -725,7 +753,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6765,
+     "views": 6778,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -739,7 +767,7 @@
     "text": "今月、借金を20万返した。  そのうち16万は利息と延滞金。 元本が減ったのは、4万。  残り796万。  週6で溶接し",
     "permalink": "https://www.threads.com/@onaricreations/post/DfPTLaumaO6",
     "insights": {
-     "views": 659,
+     "views": 667,
      "likes": 4,
      "replies": 1,
      "reposts": 0,
@@ -753,7 +781,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5683,
+     "views": 5688,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -767,7 +795,7 @@
     "text": "土曜の夜、今週をふり返る。  今週も、借金800万。 月曜から土曜まで、火花を浴びた。  それでも、面は上げない。 完済",
     "permalink": "https://www.threads.com/@onaricreations/post/DfIrMQvAeFc",
     "insights": {
-     "views": 184,
+     "views": 189,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -781,7 +809,7 @@
     "text": "大雨の造船所。  雨でも、現場は止まらない。 借金も、止まってくれない。  だから今日も、火花を散らす。  🔥 保存して",
     "permalink": "https://www.threads.com/@onaricreations/post/DfGIlzHCuUU",
     "insights": {
-     "views": 168,
+     "views": 172,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -795,7 +823,7 @@
     "text": "休憩所で、外国人の後輩にアプリを見せた。  現場の溶接の知識を、ゲームにしたアプリ。 作ってるのは、借金800万の溶接工",
     "permalink": "https://www.threads.com/@onaricreations/post/DfDi6haAfUG",
     "insights": {
-     "views": 129,
+     "views": 133,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -809,7 +837,7 @@
     "text": "借金溶接工の1週間を、10秒で。  朝4時の起床から、 雨の現場、昼めし、夜のアプリ開発、 日曜の屋上まで。  これが今",
     "permalink": "https://www.threads.com/@onaricreations/post/DfA8di5jFiZ",
     "insights": {
-     "views": 99,
+     "views": 103,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -823,7 +851,7 @@
     "text": "造船所のブロックの中。  火花の中だけは、借金を忘れる。 面を上げたら、また現実。  それでも明日も、面をかぶる。  🔥",
     "permalink": "https://www.threads.com/@onaricreations/post/De-ZqnHCL2s",
     "insights": {
-     "views": 109,
+     "views": 113,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -837,7 +865,7 @@
     "text": "雨の朝、現場へ。  借金800万の溶接工。 昼は造船所で火花を浴びて、 夜はアプリを作ってる。  完済の日まで、面は上げ",
     "permalink": "https://www.threads.com/@onaricreations/post/De7pfx2kY0v",
     "insights": {
-     "views": 109,
+     "views": 112,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -848,7 +876,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-10T10:24+09:00",
+  "fetched_at": "2026-11-10T21:32+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -941,6 +969,21 @@
     "length": 16,
     "permalink": "/reel/1148421704721249/",
     "description": "Your Japanese senior says \"GATAGATA!\" 😬 Ano ang ibig sabihin niya sa bead mo?\nComment A, B, C or D 👇\n\nAnswer in the vide",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "935255702851510",
+    "date": "2026-11-10",
+    "file": "fb_q103_chippaa.mp4",
+    "created_time": "2026-11-10T10:10:33+0000",
+    "length": 16,
+    "permalink": "/reel/935255702851510/",
+    "description": "The foreman points at your weld and says \"CHIPPAA!\" 🔨 Ano ang kukunin mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 1",
     "likes": 0,
     "comments": 0,
     "insights": {},
