@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T17:25+09:00",
+  "fetched_at": "2026-11-10T10:24+09:00",
   "page": {
     "name": "Debt Welder Japan - Onari Creations",
     "followers_count": 1,
@@ -77,6 +77,21 @@
       "length": 26.5,
       "permalink": "/reel/1140157578474041/",
       "description": "\"Dad, you look so tired.\"\nMy kids say it almost every day.\n\nEpisode 4. 3 kids. 3 reasons I can't quit. ❤️\n\nPara sa mga m",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "1148421704721249",
+      "date": "2026-11-09",
+      "file": "fb_q205_gatagata.mp4",
+      "created_time": "2026-11-09T10:06:46+0000",
+      "length": 16,
+      "permalink": "/reel/1148421704721249/",
+      "description": "Your Japanese senior says \"GATAGATA!\" 😬 Ano ang ibig sabihin niya sa bead mo?\nComment A, B, C or D 👇\n\nAnswer in the vide",
       "likes": 0,
       "comments": 0,
       "insights": {},
