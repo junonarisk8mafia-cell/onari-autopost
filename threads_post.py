@@ -35,9 +35,15 @@ def load_post(today):
     return next((p for p in posts if p["date"] == today), None)
 
 
-def publish_text(token, user_id, text):
-    r = requests.post(f"{BASE}/{user_id}/threads",
-                      data={"media_type": "TEXT", "text": text, "access_token": token}, timeout=60)
+def publish_text(token, user_id, text, topic=None):
+    data = {"media_type": "TEXT", "text": text, "access_token": token}
+    if topic:  # トピックを付けると伸びやすい（Meta公式）。1投稿に1つだけ
+        data["topic_tag"] = topic
+    r = requests.post(f"{BASE}/{user_id}/threads", data=data, timeout=60)
+    if not r.ok and topic:  # トピックで失敗したら、トピックなしでもう一度
+        print(f"⚠️ トピック「{topic}」で失敗したので、なしで投稿: {r.text[:200]}")
+        data.pop("topic_tag")
+        r = requests.post(f"{BASE}/{user_id}/threads", data=data, timeout=60)
     if not r.ok:
         sys.exit(f"❌ Threads の準備に失敗: {r.status_code} {r.text}")
     cid = r.json()["id"]
@@ -88,7 +94,7 @@ def main():
     user_id = os.environ.get("THREADS_USER_ID") or "me"
 
     print(f"📤 Threads に投稿します: {post.get('title', '')}")
-    pid = publish_text(token, user_id, text)
+    pid = publish_text(token, user_id, text, post.get("topic"))
     posted[today] = {"id": pid, "title": post.get("title", "")}
     POSTED.write_text(json.dumps(posted, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ Threads に投稿完了！ id: {pid}")
