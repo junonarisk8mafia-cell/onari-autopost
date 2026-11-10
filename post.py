@@ -105,6 +105,10 @@ def main():
         if now.hour < EARLIEST_HOUR:
             print(f"🌙 まだ{now:%H:%M}。{EARLIEST_HOUR}時までは待つ")
             return
+        skip = Path("posts/skip_dates.txt")
+        if skip.exists() and today in skip.read_text().split():
+            print(f"✋ {today} は Jun が手で投稿する日なので、botは休み")
+            return
         if LAST.exists() and LAST.read_text().strip() == today:
             print("✅ 今日はもう投稿済みなので、何もしない")
             return
