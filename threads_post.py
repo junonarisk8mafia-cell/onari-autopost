@@ -56,8 +56,13 @@ def publish_text(token, user_id, text, topic=None):
         if status == "ERROR":
             sys.exit(f"❌ Threads 側で処理に失敗: {s.text}")
         time.sleep(3)
-    p = requests.post(f"{BASE}/{user_id}/threads_publish",
-                      data={"creation_id": cid, "access_token": token}, timeout=60)
+    for _ in range(6):  # 準備ができる前だと "Media Not Found" になるので、少し待ってやり直す
+        p = requests.post(f"{BASE}/{user_id}/threads_publish",
+                          data={"creation_id": cid, "access_token": token}, timeout=60)
+        if p.ok or "4279009" not in p.text:
+            break
+        print("⏳ まだ準備中みたいなので、10秒待ってやり直す")
+        time.sleep(10)
     if not p.ok:
         sys.exit(f"❌ Threads の公開に失敗: {p.status_code} {p.text}")
     return p.json().get("id")
