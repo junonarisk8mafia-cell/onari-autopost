@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-11T06:10+09:00",
+  "fetched_at": "2026-11-11T21:12+09:00",
   "page": {
     "name": "Debt Welder Japan - Onari Creations",
     "followers_count": 1,
@@ -107,6 +107,21 @@
       "length": 16,
       "permalink": "/reel/935255702851510/",
       "description": "The foreman points at your weld and says \"CHIPPAA!\" 🔨 Ano ang kukunin mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 1",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "2071016210247682",
+      "date": "2026-11-11",
+      "file": "fb_news_ikusei.mp4",
+      "created_time": "2026-11-11T10:09:22+0000",
+      "length": 16,
+      "permalink": "/reel/2071016210247682/",
+      "description": "NEWS for OFWs in Japan 🇯🇵\nFrom April 2027, Japan replaces the Technical Intern Program (技能実習) with a new system: \"Ikusei",
       "likes": 0,
       "comments": 0,
       "insights": {},

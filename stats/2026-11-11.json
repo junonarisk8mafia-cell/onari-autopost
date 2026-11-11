@@ -1,13 +1,31 @@
 {
- "fetched_at": "2026-11-11T06:10+09:00",
+ "fetched_at": "2026-11-11T21:11+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 15,
-   "media_count": 79,
+   "media_count": 80,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18192667345409411",
+    "time": "2026-11-11T10:10:18+0000",
+    "type": "VIDEO",
+    "caption": "作業着、前みたいに買えなくなった。  服が高い理由、調べたら「中東の原油」やった。 ・ポリエステルの糸や生地が20%以上",
+    "permalink": "https://www.instagram.com/reel/DfmO-AwDSRq/",
+    "likes": 2,
+    "comments": 2,
+    "insights": {
+     "views": 47,
+     "reach": 13,
+     "likes": 2,
+     "comments": 2,
+     "shares": 0,
+     "saved": 1,
+     "total_interactions": 5
+    }
+   },
    {
     "id": "18115558556124631",
     "time": "2026-11-10T10:11:15+0000",
@@ -17,8 +35,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 123,
-     "reach": 110,
+     "views": 124,
+     "reach": 111,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +53,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1118,
-     "reach": 957,
+     "views": 1169,
+     "reach": 1005,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -125,8 +143,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 456,
-     "reach": 332,
+     "views": 457,
+     "reach": 333,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -143,8 +161,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 146,
-     "reach": 121,
+     "views": 147,
+     "reach": 122,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -197,8 +215,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 145,
-     "reach": 132,
+     "views": 147,
+     "reach": 133,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -269,8 +287,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1815,
-     "reach": 1572,
+     "views": 1817,
+     "reach": 1573,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -287,7 +305,7 @@
     "likes": 9,
     "comments": 0,
     "insights": {
-     "views": 3881,
+     "views": 3882,
      "reach": 2933,
      "likes": 9,
      "comments": 0,
@@ -305,7 +323,7 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 197,
+     "views": 199,
      "reach": 167,
      "likes": 0,
      "comments": 0,
@@ -529,24 +547,6 @@
      "saved": 0,
      "total_interactions": 0
     }
-   },
-   {
-    "id": "18001482287801661",
-    "time": "2026-10-11T11:31:08+0000",
-    "type": "VIDEO",
-    "caption": "本屋に行ったら、「Claude/AI仕事術」フェアができてた。  Claudeの本だけで、棚がひとつ埋まってる。 時代が",
-    "permalink": "https://www.instagram.com/reel/DeWjkn9kfjp/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 46,
-     "reach": 41,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 1,
-     "total_interactions": 1
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 6463,
-       "end_time": "2026-11-09T08:00:00+0000"
+       "value": 1427,
+       "end_time": "2026-11-10T08:00:00+0000"
       },
       {
-       "value": 1247,
-       "end_time": "2026-11-10T08:00:00+0000"
+       "value": 379,
+       "end_time": "2026-11-11T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 11
+      "value": 1
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 1
+      "value": 0
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794172226&until=1794258626",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794345028&until=1794431428"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794226319&until=1794312719",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794399121&until=1794485521"
    }
   },
   "posts": [
+   {
+    "id": "18099676544396171",
+    "time": "2026-11-10T22:20:07+0000",
+    "text": "鳥取の食フェス、5万人の見込みで、来たのは約500人らしい。  出店者さん、他人事と思えん。 見込みと現実の差、俺も知っ",
+    "permalink": "https://www.threads.com/@onaricreations/post/Dfk9vDyn4sU",
+    "insights": {
+     "views": 185,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18089811731295230",
     "time": "2026-11-10T12:03:40+0000",
     "text": "しまむらのセールが話題になってる。  作業着、前みたいに買えなくなった。 溶接の火花で、すぐ穴があく。 なのに値段は上が",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfj3MClnIfB",
     "insights": {
-     "views": 479,
+     "views": 503,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -627,7 +641,7 @@
     "text": "実習生に、現場用語が伝わらない。  「開先とって」 「仮付けしといて」 「ケガキ線どこ？」  日本人の新人でも最初わから",
     "permalink": "https://www.threads.com/@onaricreations/post/DfjqO8OlYkH",
     "insights": {
-     "views": 280,
+     "views": 306,
      "likes": 2,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +655,7 @@
     "text": "「物価が上がってる」と感じてる人、99.4%。 家計が苦しくなった人、88.2%。 （2026年9月の調査）  残りの0",
     "permalink": "https://www.threads.com/@onaricreations/post/DfiT9vUEkTZ",
     "insights": {
-     "views": 88,
+     "views": 89,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
@@ -655,9 +669,9 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5861,
+     "views": 5875,
      "likes": 66,
-     "replies": 10,
+     "replies": 11,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
@@ -669,7 +683,7 @@
     "text": "将来不安  20〜30代の4割以上が「次に何をすべきかわからない」らしい。 分かる。俺も昔そうだった。 今の俺の答えはシ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfgsgRamYmJ",
     "insights": {
-     "views": 141,
+     "views": 142,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -725,7 +739,7 @@
     "text": "子どもによく言われる。 「お父さん、しんどそうな顔してる」  まじでしんどい。 けど、子どもの顔見ると諦められない。  ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfVuvQdGgzx",
     "insights": {
-     "views": 1780,
+     "views": 1781,
      "likes": 28,
      "replies": 6,
      "reposts": 0,
@@ -753,7 +767,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6779,
+     "views": 6785,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -876,7 +890,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-11T06:10+09:00",
+  "fetched_at": "2026-11-11T21:12+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -984,6 +998,21 @@
     "length": 16,
     "permalink": "/reel/935255702851510/",
     "description": "The foreman points at your weld and says \"CHIPPAA!\" 🔨 Ano ang kukunin mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 1",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "2071016210247682",
+    "date": "2026-11-11",
+    "file": "fb_news_ikusei.mp4",
+    "created_time": "2026-11-11T10:09:22+0000",
+    "length": 16,
+    "permalink": "/reel/2071016210247682/",
+    "description": "NEWS for OFWs in Japan 🇯🇵\nFrom April 2027, Japan replaces the Technical Intern Program (技能実習) with a new system: \"Ikusei",
     "likes": 0,
     "comments": 0,
     "insights": {},
