@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-12T21:11+09:00",
+ "fetched_at": "2026-11-13T06:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 50,
-     "reach": 45,
+     "views": 76,
+     "reach": 67,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +35,8 @@
     "likes": 4,
     "comments": 4,
     "insights": {
-     "views": 2439,
-     "reach": 2147,
+     "views": 2456,
+     "reach": 2167,
      "likes": 4,
      "comments": 4,
      "shares": 0,
@@ -71,8 +71,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1207,
-     "reach": 1041,
+     "views": 1214,
+     "reach": 1050,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -107,8 +107,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 149,
-     "reach": 124,
+     "views": 151,
+     "reach": 125,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -562,7 +562,7 @@
        "end_time": "2026-11-11T08:00:00+0000"
       },
       {
-       "value": 1761,
+       "value": 3042,
        "end_time": "2026-11-12T08:00:00+0000"
       }
      ],
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 3
+      "value": 6
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 7
+      "value": 9
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794312725&until=1794399125",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794485527&until=1794571927"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794344986&until=1794431386",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794517788&until=1794604188"
    }
   },
   "posts": [
@@ -613,9 +613,9 @@
     "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
     "insights": {
-     "views": 153,
+     "views": 193,
      "likes": 0,
-     "replies": 5,
+     "replies": 7,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
@@ -627,7 +627,7 @@
     "text": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
     "permalink": "https://www.threads.com/@onaricreations/post/DfmfGLumLTh",
     "insights": {
-     "views": 76,
+     "views": 77,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +641,7 @@
     "text": "鳥取の食フェス、5万人の見込みで、来たのは約500人らしい。  出店者さん、他人事と思えん。 見込みと現実の差、俺も知っ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfk9vDyn4sU",
     "insights": {
-     "views": 300,
+     "views": 302,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -697,7 +697,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5890,
+     "views": 5891,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -823,7 +823,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5689,
+     "views": 5690,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -918,7 +918,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-12T21:12+09:00",
+  "fetched_at": "2026-11-13T06:09+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
