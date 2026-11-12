@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T06:09+09:00",
+  "fetched_at": "2026-11-12T21:12+09:00",
   "page": {
     "name": "Debt Welder Japan - Onari Creations",
     "followers_count": 1,
@@ -122,6 +122,21 @@
       "length": 16,
       "permalink": "/reel/2071016210247682/",
       "description": "NEWS for OFWs in Japan 🇯🇵\nFrom April 2027, Japan replaces the Technical Intern Program (技能実習) with a new system: \"Ikusei",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "2185090142409594",
+      "date": "2026-11-12",
+      "file": "fb_g_wage.mp4",
+      "created_time": "2026-11-12T10:09:13+0000",
+      "length": 16.5,
+      "permalink": "/reel/2185090142409594/",
+      "description": "Japan's minimum wage is now ¥1,177/hour on average (up ¥56) 💴\nSome prefectures start later: Yamanashi, Kyoto and others ",
       "likes": 0,
       "comments": 0,
       "insights": {},

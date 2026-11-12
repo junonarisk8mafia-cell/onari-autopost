@@ -1,29 +1,47 @@
 {
- "fetched_at": "2026-11-12T06:09+09:00",
+ "fetched_at": "2026-11-12T21:11+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 15,
-   "media_count": 80,
+   "media_count": 81,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18647247973055459",
+    "time": "2026-11-12T10:09:46+0000",
+    "type": "VIDEO",
+    "caption": "冬の電気代、補助が戻ってくる。  ・電気：12月は1kWhあたり1円引き、1月・2月は4.5円引き ・政府は「標準的な家",
+    "permalink": "https://www.instagram.com/reel/DfozsvZnDF5/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 50,
+     "reach": 45,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18192667345409411",
     "time": "2026-11-11T10:10:18+0000",
     "type": "VIDEO",
     "caption": "作業着、前みたいに買えなくなった。  服が高い理由、調べたら「中東の原油」やった。 ・ポリエステルの糸や生地が20%以上",
     "permalink": "https://www.instagram.com/reel/DfmO-AwDSRq/",
-    "likes": 2,
+    "likes": 4,
     "comments": 4,
     "insights": {
-     "views": 1098,
-     "reach": 936,
-     "likes": 2,
+     "views": 2439,
+     "reach": 2147,
+     "likes": 4,
      "comments": 4,
      "shares": 0,
      "saved": 1,
-     "total_interactions": 7
+     "total_interactions": 9
     }
    },
    {
@@ -35,8 +53,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 125,
-     "reach": 112,
+     "views": 126,
+     "reach": 113,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -53,8 +71,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1178,
-     "reach": 1017,
+     "views": 1207,
+     "reach": 1041,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -71,8 +89,8 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 223,
-     "reach": 186,
+     "views": 224,
+     "reach": 187,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -89,8 +107,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 148,
-     "reach": 123,
+     "views": 149,
+     "reach": 124,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -107,7 +125,7 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 156,
+     "views": 157,
      "reach": 128,
      "likes": 0,
      "comments": 0,
@@ -125,8 +143,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 121,
-     "reach": 118,
+     "views": 123,
+     "reach": 120,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -143,8 +161,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 458,
-     "reach": 334,
+     "views": 459,
+     "reach": 335,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -161,8 +179,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 148,
-     "reach": 123,
+     "views": 149,
+     "reach": 124,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -179,8 +197,8 @@
     "likes": 5,
     "comments": 1,
     "insights": {
-     "views": 984,
-     "reach": 742,
+     "views": 986,
+     "reach": 743,
      "likes": 5,
      "comments": 1,
      "shares": 0,
@@ -197,8 +215,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 117,
-     "reach": 109,
+     "views": 119,
+     "reach": 110,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -215,8 +233,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 148,
-     "reach": 134,
+     "views": 149,
+     "reach": 135,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -233,8 +251,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 195,
-     "reach": 153,
+     "views": 196,
+     "reach": 154,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -251,8 +269,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 145,
-     "reach": 124,
+     "views": 146,
+     "reach": 125,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -269,8 +287,8 @@
     "likes": 3,
     "comments": 0,
     "insights": {
-     "views": 753,
-     "reach": 650,
+     "views": 754,
+     "reach": 651,
      "likes": 3,
      "comments": 0,
      "shares": 0,
@@ -287,8 +305,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1817,
-     "reach": 1573,
+     "views": 1818,
+     "reach": 1574,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -529,24 +547,6 @@
      "saved": 0,
      "total_interactions": 0
     }
-   },
-   {
-    "id": "17935085883401339",
-    "time": "2026-10-11T23:07:47+0000",
-    "type": "VIDEO",
-    "caption": "本屋のビジネス書ランキング。 上位に並んでたのは「AI」と「お金」の本だった。  借金800万の俺が見て思ったこと。 増",
-    "permalink": "https://www.instagram.com/reel/DeXzS99j-Kb/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 12,
-     "reach": 12,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 1427,
-       "end_time": "2026-11-10T08:00:00+0000"
+       "value": 1806,
+       "end_time": "2026-11-11T08:00:00+0000"
       },
       {
-       "value": 976,
-       "end_time": "2026-11-11T08:00:00+0000"
+       "value": 1761,
+       "end_time": "2026-11-12T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 4
+      "value": 3
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 0
+      "value": 7
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -596,25 +596,39 @@
      "title": "followers_count",
      "description": "This is your total number of followers on Threads.",
      "total_value": {
-      "value": 11
+      "value": 12
      },
      "id": "17841416095292156/insights/followers_count/day"
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794258569&until=1794344969",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794431371&until=1794517771"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794312725&until=1794399125",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794485527&until=1794571927"
    }
   },
   "posts": [
+   {
+    "id": "18141365218724237",
+    "time": "2026-11-12T10:09:17+0000",
+    "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
+    "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
+    "insights": {
+     "views": 153,
+     "likes": 0,
+     "replies": 5,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18070807262781701",
     "time": "2026-11-11T12:31:50+0000",
     "text": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
     "permalink": "https://www.threads.com/@onaricreations/post/DfmfGLumLTh",
     "insights": {
-     "views": 66,
-     "likes": 0,
+     "views": 76,
+     "likes": 1,
      "replies": 0,
      "reposts": 0,
      "quotes": 0,
@@ -627,7 +641,7 @@
     "text": "鳥取の食フェス、5万人の見込みで、来たのは約500人らしい。  出店者さん、他人事と思えん。 見込みと現実の差、俺も知っ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfk9vDyn4sU",
     "insights": {
-     "views": 283,
+     "views": 300,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +655,7 @@
     "text": "しまむらのセールが話題になってる。  作業着、前みたいに買えなくなった。 溶接の火花で、すぐ穴があく。 なのに値段は上が",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfj3MClnIfB",
     "insights": {
-     "views": 506,
+     "views": 507,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -683,7 +697,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5882,
+     "views": 5890,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -697,7 +711,7 @@
     "text": "将来不安  20〜30代の4割以上が「次に何をすべきかわからない」らしい。 分かる。俺も昔そうだった。 今の俺の答えはシ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfgsgRamYmJ",
     "insights": {
-     "views": 143,
+     "views": 144,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -711,7 +725,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1676,
+     "views": 1677,
      "likes": 44,
      "replies": 3,
      "reposts": 0,
@@ -781,7 +795,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6787,
+     "views": 6789,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -904,7 +918,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-12T06:09+09:00",
+  "fetched_at": "2026-11-12T21:12+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -1027,6 +1041,21 @@
     "length": 16,
     "permalink": "/reel/2071016210247682/",
     "description": "NEWS for OFWs in Japan 🇯🇵\nFrom April 2027, Japan replaces the Technical Intern Program (技能実習) with a new system: \"Ikusei",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "2185090142409594",
+    "date": "2026-11-12",
+    "file": "fb_g_wage.mp4",
+    "created_time": "2026-11-12T10:09:13+0000",
+    "length": 16.5,
+    "permalink": "/reel/2185090142409594/",
+    "description": "Japan's minimum wage is now ¥1,177/hour on average (up ¥56) 💴\nSome prefectures start later: Yamanashi, Kyoto and others ",
     "likes": 0,
     "comments": 0,
     "insights": {},
