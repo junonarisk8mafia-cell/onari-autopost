@@ -1,85 +1,93 @@
 {
- "_説明": "YouTube と Facebook に出す動画の予定。date の日に、file の動画をそれぞれの係が投稿する。動画は video/files/ に置く。",
- "posts": [
-  {
-   "date": "2026-11-04",
-   "file": "s1_ep1.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "I'm a shipyard welder in Japan. 3 kids. ¥8,000,000 in debt.\n\nThis is Episode 1 of my comeback. Every step, right here. 🔥\n\nKaya natin 'to. Laban lang! 🇯🇵🇵🇭\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
-  },
-  {
-   "date": "2026-11-05",
-   "file": "s1_ep2.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "Tax. Health insurance. Pension. All overdue.\nIn Japan, these letters never stop.\n\nEpisode 2. Either I go down fighting, or my life changes. 🔥\n\nSino dito ang may bayarin din every month? 👇\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
-  },
-  {
-   "date": "2026-11-06",
-   "file": "s1_ep3.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "I pay ¥200,000 a month. My debt goes down only ¥60,000.\nWorking more wasn't going to save me.\n\nEpisode 3. I needed a different weapon. 💻🔥\n\nKaya natin 'to. Laban lang!\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
-  },
-  {
-   "date": "2026-11-07",
-   "file": "s1_ep4.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "\"Dad, you look so tired.\"\nMy kids say it almost every day.\n\nEpisode 4. 3 kids. 3 reasons I can't quit. ❤️\n\nPara sa mga magulang na nagtatrabaho abroad — para sa inyo 'to.\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
-  },
-  {
-   "date": "2026-11-09",
-   "file": "fb_q205_gatagata.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "Your Japanese senior says \"GATAGATA!\" 😬 Ano ang ibig sabihin niya sa bead mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 140 questions about real Japanese job-site words, JIS and safety certs — made by a shipyard welder in Japan.\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #Welder #TokuteiGinou #Japan"
-  },
-  {
-   "date": "2026-11-10",
-   "file": "fb_q103_chippaa.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "The foreman points at your weld and says \"CHIPPAA!\" 🔨 Ano ang kukunin mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 140 questions about real Japanese job-site words, JIS and safety certs — made by a shipyard welder in Japan.\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #Welder #TokuteiGinou #Japan"
-  },
-  {
-   "date": "2026-11-11",
-   "file": "fb_news_ikusei.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "NEWS for OFWs in Japan 🇯🇵\nFrom April 2027, Japan replaces the Technical Intern Program (技能実習) with a new system: \"Ikusei Shuro\" (育成就労).\n• 17 fields, including construction\n• After about 3 years → Specified Skilled Worker (特定技能)\nSource: Japanese Cabinet decision (Kyodo News, Sep 26, 2025)\n\nAs a welder in Japan, I see trainees struggle most with LANGUAGE. Kaisaki, karitsuke… walang nagpapaliwanag. So I built a welding app in English.\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\nAno ang pinakamahirap na Japanese word sa trabaho mo? Comment below 👇\n\n#OFW #PinoyInJapan #Welder #TokuteiGinou #Japan #IkuseiShuro"
-  },
-  {
-   "date": "2026-11-12",
-   "file": "fb_g_wage.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "Japan's minimum wage is now ¥1,177/hour on average (up ¥56) 💴\nSome prefectures start later: Yamanashi, Kyoto and others in November; Iwate, Kumamoto and Okinawa in December.\n\nCheck your payslip. Mas mababa ba sa bagong minimum? Ask your company — it's the law.\n\nDid your pay go up?\nA Yes  B Not yet  C Not sure — comment below 👇\nShare with a kababayan.\n\nSource: Ministry of Health, Labour and Welfare (Kyodo / Kumamoto Nichinichi, Sep 3, 2026)\n\nLearning welding in Japan? 📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #RealTalkNews #Japan #TokuteiGinou #MinimumWage"
-  },
-  {
-   "date": "2026-11-13",
-   "file": "fb_g_denki.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "Winter electric bill? A discount is coming ⚡\n• Electricity: ¥1 off per kWh in December, ¥4.5 off per kWh in January & February\n• It's a discount on your bill, not cash\n• LP gas is NOT covered (city gas is)\n• Nothing for November\n\nAnong gas ang gamit niyo?\nA City gas  B LP gas  C Don't know — comment below 👇\nShare with your roommates.\n\nSource: Japan Gov't announcement (Oct 30, 2026), Selectra Japan (Nov 6, 2026)\n\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #RealTalkNews #Japan #TokuteiGinou #ElectricBill"
-  },
-  {
-   "date": "2026-11-14",
-   "file": "fb_g_fuku.mp4",
-   "youtube": false,
-   "facebook": true,
-   "ai_generated": true,
-   "fb_description": "Work clothes getting expensive? 👷\n• Polyester yarn & fabric prices up 20%+ (Teijin Frontier, from April 2026)\n• Cause: oil and naphtha shortage from the Middle East situation\n• But Workman cut its work clothes from ¥4,400 to ¥3,400 per set\n\nTip: compare before you buy.\n\nHow long do you wear one set?\nA 1 year  B 2–3 years  C Until it tears — comment below 👇\nShare with a kababayan.\n\nSource: Just Style (Apr 17, 2026), ITmedia Business (Oct 12, 2026)\n\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #RealTalkNews #Japan #TokuteiGinou #WorkClothes"
-  }
- ]
+  "_説明": "YouTube と Facebook に出す動画の予定。date の日に、file の動画をそれぞれの係が投稿する。動画は video/files/ に置く。",
+  "posts": [
+    {
+      "date": "2026-11-04",
+      "file": "s1_ep1.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "I'm a shipyard welder in Japan. 3 kids. ¥8,000,000 in debt.\n\nThis is Episode 1 of my comeback. Every step, right here. 🔥\n\nKaya natin 'to. Laban lang! 🇯🇵🇵🇭\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
+    },
+    {
+      "date": "2026-11-05",
+      "file": "s1_ep2.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "Tax. Health insurance. Pension. All overdue.\nIn Japan, these letters never stop.\n\nEpisode 2. Either I go down fighting, or my life changes. 🔥\n\nSino dito ang may bayarin din every month? 👇\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
+    },
+    {
+      "date": "2026-11-06",
+      "file": "s1_ep3.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "I pay ¥200,000 a month. My debt goes down only ¥60,000.\nWorking more wasn't going to save me.\n\nEpisode 3. I needed a different weapon. 💻🔥\n\nKaya natin 'to. Laban lang!\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
+    },
+    {
+      "date": "2026-11-07",
+      "file": "s1_ep4.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "\"Dad, you look so tired.\"\nMy kids say it almost every day.\n\nEpisode 4. 3 kids. 3 reasons I can't quit. ❤️\n\nPara sa mga magulang na nagtatrabaho abroad — para sa inyo 'to.\n\n#OFW #PinoyInJapan #Welder #DebtFree #Japan"
+    },
+    {
+      "date": "2026-11-09",
+      "file": "fb_q205_gatagata.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "Your Japanese senior says \"GATAGATA!\" 😬 Ano ang ibig sabihin niya sa bead mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 140 questions about real Japanese job-site words, JIS and safety certs — made by a shipyard welder in Japan.\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #Welder #TokuteiGinou #Japan"
+    },
+    {
+      "date": "2026-11-10",
+      "file": "fb_q103_chippaa.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "The foreman points at your weld and says \"CHIPPAA!\" 🔨 Ano ang kukunin mo?\nComment A, B, C or D 👇\n\nAnswer in the video! 140 questions about real Japanese job-site words, JIS and safety certs — made by a shipyard welder in Japan.\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #Welder #TokuteiGinou #Japan"
+    },
+    {
+      "date": "2026-11-11",
+      "file": "fb_news_ikusei.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "NEWS for OFWs in Japan 🇯🇵\nFrom April 2027, Japan replaces the Technical Intern Program (技能実習) with a new system: \"Ikusei Shuro\" (育成就労).\n• 17 fields, including construction\n• After about 3 years → Specified Skilled Worker (特定技能)\nSource: Japanese Cabinet decision (Kyodo News, Sep 26, 2025)\n\nAs a welder in Japan, I see trainees struggle most with LANGUAGE. Kaisaki, karitsuke… walang nagpapaliwanag. So I built a welding app in English.\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\nAno ang pinakamahirap na Japanese word sa trabaho mo? Comment below 👇\n\n#OFW #PinoyInJapan #Welder #TokuteiGinou #Japan #IkuseiShuro"
+    },
+    {
+      "date": "2026-11-12",
+      "file": "fb_g_wage.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "Japan's minimum wage is now ¥1,177/hour on average (up ¥56) 💴\nSome prefectures start later: Yamanashi, Kyoto and others in November; Iwate, Kumamoto and Okinawa in December.\n\nCheck your payslip. Mas mababa ba sa bagong minimum? Ask your company — it's the law.\n\nDid your pay go up?\nA Yes  B Not yet  C Not sure — comment below 👇\nShare with a kababayan.\n\nSource: Ministry of Health, Labour and Welfare (Kyodo / Kumamoto Nichinichi, Sep 3, 2026)\n\nLearning welding in Japan? 📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #RealTalkNews #Japan #TokuteiGinou #MinimumWage"
+    },
+    {
+      "date": "2026-11-13",
+      "file": "fb_g_nvidia.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "The king of AI just quit 😳\n• NVIDIA CEO Jensen Huang resigned as CEO and board member on Nov 11 (company statement)\n• CFO Colette Kress is interim CEO\n• Reports say the problem was his close ties to a woman suspected of spying for China (New York Times). He reportedly admitted an affair and apologized to employees.\n\nEven the top AI boss can vanish overnight. Honey trap rumors? Scary.\nMe? Still welding. 🔥\n\nIn the AI era, how will you earn?\nA Skills   B Use AI   C Not sure\nComment below 👇 and send to a kabayan.\n\nSources: Mynavi News (Nov 13, 2026), Techno Edge (Nov 13, 2026)\n\n#OFWJapan #NVIDIA #AI #PinoyInJapan #RealTalkNews"
+    },
+    {
+      "date": "2026-11-14",
+      "file": "fb_g_fuku.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "Work clothes getting expensive? 👷\n• Polyester yarn & fabric prices up 20%+ (Teijin Frontier, from April 2026)\n• Cause: oil and naphtha shortage from the Middle East situation\n• But Workman cut its work clothes from ¥4,400 to ¥3,400 per set\n\nTip: compare before you buy.\n\nHow long do you wear one set?\nA 1 year  B 2–3 years  C Until it tears — comment below 👇\nShare with a kababayan.\n\nSource: Just Style (Apr 17, 2026), ITmedia Business (Oct 12, 2026)\n\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #RealTalkNews #Japan #TokuteiGinou #WorkClothes"
+    },
+    {
+      "date": "2026-11-15",
+      "file": "fb_g_denki.mp4",
+      "youtube": false,
+      "facebook": true,
+      "ai_generated": true,
+      "fb_description": "Winter electric bill? A discount is coming ⚡\n• Electricity: ¥1 off per kWh in December, ¥4.5 off per kWh in January & February\n• It's a discount on your bill, not cash\n• LP gas is NOT covered (city gas is)\n• Nothing for November\n\nAnong gas ang gamit niyo?\nA City gas  B LP gas  C Don't know — comment below 👇\nShare with your roommates.\n\nSource: Japan Gov't announcement (Oct 30, 2026), Selectra Japan (Nov 6, 2026)\n\n📲 WELDON'S FORGE on Google Play: https://play.google.com/store/apps/details?id=com.onaricreations.weldonsforge.en\n\n#OFW #PinoyInJapan #RealTalkNews #Japan #TokuteiGinou #ElectricBill"
+    }
+  ]
 }
