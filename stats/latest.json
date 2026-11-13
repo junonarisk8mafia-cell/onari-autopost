@@ -1,13 +1,49 @@
 {
- "fetched_at": "2026-11-13T06:09+09:00",
+ "fetched_at": "2026-11-13T21:11+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 15,
-   "media_count": 81,
+   "media_count": 83,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18100037003411789",
+    "time": "2026-11-13T10:10:27+0000",
+    "type": "VIDEO",
+    "caption": "Scratchでちょっと遊んだだけの溶接工が、AIでアプリを作り始めた。  「次に何をすべきかわからない」42.0%（2",
+    "permalink": "https://www.instagram.com/reel/DfrYla5DpnH/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 5,
+     "reach": 3,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
+   {
+    "id": "18117346682024356",
+    "time": "2026-11-12T22:53:51+0000",
+    "type": "VIDEO",
+    "caption": "AIの王様が、突然の辞任。  NVIDIAのジェンスン・フアンCEOが、11月11日付でCEOと取締役を辞任（会社の発表",
+    "permalink": "https://www.instagram.com/reel/DfqLJAcGd9R/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 109,
+     "reach": 102,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18647247973055459",
     "time": "2026-11-12T10:09:46+0000",
@@ -17,8 +53,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 76,
-     "reach": 67,
+     "views": 117,
+     "reach": 104,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +71,8 @@
     "likes": 4,
     "comments": 4,
     "insights": {
-     "views": 2456,
-     "reach": 2167,
+     "views": 2467,
+     "reach": 2176,
      "likes": 4,
      "comments": 4,
      "shares": 0,
@@ -71,8 +107,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1214,
-     "reach": 1050,
+     "views": 1230,
+     "reach": 1065,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -89,8 +125,8 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 224,
-     "reach": 187,
+     "views": 225,
+     "reach": 188,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -511,42 +547,6 @@
      "saved": 0,
      "total_interactions": 0
     }
-   },
-   {
-    "id": "18100265366541592",
-    "time": "2026-10-13T23:07:06+0000",
-    "type": "VIDEO",
-    "caption": "現場終わり。ヘトヘトで本屋に寄った。  目に入ったのは『疲れ切った人のための勉強法』。 ……わかる。わかりすぎる。  ア",
-    "permalink": "https://www.instagram.com/reel/Dec8zq4jZ_U/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 14,
-     "reach": 13,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
-   },
-   {
-    "id": "18374316688214747",
-    "time": "2026-10-13T00:58:56+0000",
-    "type": "VIDEO",
-    "caption": "ビジネス書ランキング1位は「習慣」の本だった。  みんな、変わるきっかけを探してる。 俺もそうだった。  で、俺の習慣は",
-    "permalink": "https://www.instagram.com/reel/Deak1ENjdSv/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 10,
-     "reach": 10,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 1806,
-       "end_time": "2026-11-11T08:00:00+0000"
+       "value": 7262,
+       "end_time": "2026-11-12T08:00:00+0000"
       },
       {
-       "value": 3042,
-       "end_time": "2026-11-12T08:00:00+0000"
+       "value": 856,
+       "end_time": "2026-11-13T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 6
+      "value": 4
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 9
+      "value": 2
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794344986&until=1794431386",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794517788&until=1794604188"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794399109&until=1794485509",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794571911&until=1794658311"
    }
   },
   "posts": [
+   {
+    "id": "18029135657917032",
+    "time": "2026-11-12T22:48:01+0000",
+    "text": "AIの王様みたいな会社、NVIDIAのトップが急に辞めた。 株価も急落してるらしい。  報道では、中国のスパイと疑われる",
+    "permalink": "https://www.threads.com/@onaricreations/post/DfqKgTZmAV0",
+    "insights": {
+     "views": 187,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18141365218724237",
     "time": "2026-11-12T10:09:17+0000",
     "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
     "insights": {
-     "views": 193,
+     "views": 214,
      "likes": 0,
      "replies": 7,
      "reposts": 0,
@@ -627,7 +641,7 @@
     "text": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
     "permalink": "https://www.threads.com/@onaricreations/post/DfmfGLumLTh",
     "insights": {
-     "views": 77,
+     "views": 84,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +655,7 @@
     "text": "鳥取の食フェス、5万人の見込みで、来たのは約500人らしい。  出店者さん、他人事と思えん。 見込みと現実の差、俺も知っ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfk9vDyn4sU",
     "insights": {
-     "views": 302,
+     "views": 304,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -655,7 +669,7 @@
     "text": "しまむらのセールが話題になってる。  作業着、前みたいに買えなくなった。 溶接の火花で、すぐ穴があく。 なのに値段は上が",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfj3MClnIfB",
     "insights": {
-     "views": 507,
+     "views": 509,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -669,7 +683,7 @@
     "text": "実習生に、現場用語が伝わらない。  「開先とって」 「仮付けしといて」 「ケガキ線どこ？」  日本人の新人でも最初わから",
     "permalink": "https://www.threads.com/@onaricreations/post/DfjqO8OlYkH",
     "insights": {
-     "views": 310,
+     "views": 313,
      "likes": 2,
      "replies": 0,
      "reposts": 0,
@@ -683,7 +697,7 @@
     "text": "「物価が上がってる」と感じてる人、99.4%。 家計が苦しくなった人、88.2%。 （2026年9月の調査）  残りの0",
     "permalink": "https://www.threads.com/@onaricreations/post/DfiT9vUEkTZ",
     "insights": {
-     "views": 90,
+     "views": 91,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
@@ -697,7 +711,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5891,
+     "views": 5898,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -711,7 +725,7 @@
     "text": "将来不安  20〜30代の4割以上が「次に何をすべきかわからない」らしい。 分かる。俺も昔そうだった。 今の俺の答えはシ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfgsgRamYmJ",
     "insights": {
-     "views": 144,
+     "views": 145,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -725,7 +739,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1677,
+     "views": 1679,
      "likes": 44,
      "replies": 3,
      "reposts": 0,
@@ -739,7 +753,7 @@
     "text": "造船所で溶接してる借金持ちの職人です。  求人票、ちゃんと最後まで読んでる？ 全部好条件に見える4つ、あなたならどれに応",
     "permalink": "https://www.threads.com/@onaricreations/post/DfbyZ18Gcf0",
     "insights": {
-     "views": 270,
+     "views": 271,
      "likes": 2,
      "replies": 1,
      "reposts": 0,
@@ -753,7 +767,7 @@
     "text": "金曜。今週も月曜から火花浴びた。  作業着、まじで穴だらけ。 最近の作業着、バリ高いしなぁ。  職人のみんな、最近の作業",
     "permalink": "https://www.threads.com/@onaricreations/post/DfYY5A2mmgE",
     "insights": {
-     "views": 410,
+     "views": 412,
      "likes": 3,
      "replies": 0,
      "reposts": 0,
@@ -795,7 +809,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6789,
+     "views": 6791,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -823,7 +837,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5690,
+     "views": 5691,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -918,7 +932,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-13T06:09+09:00",
+  "fetched_at": "2026-11-13T21:11+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -1056,6 +1070,21 @@
     "length": 16.5,
     "permalink": "/reel/2185090142409594/",
     "description": "Japan's minimum wage is now ¥1,177/hour on average (up ¥56) 💴\nSome prefectures start later: Yamanashi, Kyoto and others ",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "2973845286326800",
+    "date": "2026-11-13",
+    "file": "fb_g_nvidia.mp4",
+    "created_time": "2026-11-12T22:56:34+0000",
+    "length": 16.5,
+    "permalink": "/reel/2973845286326800/",
+    "description": "The king of AI just quit 😳\n• NVIDIA CEO Jensen Huang resigned as CEO and board member on Nov 11 (company statement)\n• CF",
     "likes": 0,
     "comments": 0,
     "insights": {},
