@@ -101,10 +101,12 @@ def main():
     manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
     now = datetime.now(JST)
     today = now.strftime("%Y-%m-%d")
-    if not manual:
-        if now.hour < EARLIEST_HOUR:
-            print(f"🌙 まだ{now:%H:%M}。{EARLIEST_HOUR}時までは待つ")
-            return
+    if not manual and now.hour < EARLIEST_HOUR:
+        print(f"🌙 まだ{now:%H:%M}。{EARLIEST_HOUR}時までは待つ")
+        return
+    # 1日1本のチェックは、手動実行でも守る（夜の自動起動で二重に出ないように）。
+    # どうしても2本目を出したい時だけ FORCE=1 で動かす。
+    if os.environ.get("FORCE") != "1":
         skip = Path("posts/skip_dates.txt")
         if skip.exists() and today in skip.read_text().split():
             print(f"✋ {today} は Jun が手で投稿する日なので、botは休み")
