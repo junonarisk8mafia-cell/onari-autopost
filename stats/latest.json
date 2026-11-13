@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T21:25+09:00",
+ "fetched_at": "2026-11-14T06:10+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 6,
-     "reach": 4,
+     "views": 29,
+     "reach": 28,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +35,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 109,
-     "reach": 102,
+     "views": 110,
+     "reach": 103,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -71,8 +71,8 @@
     "likes": 4,
     "comments": 4,
     "insights": {
-     "views": 2467,
-     "reach": 2177,
+     "views": 2469,
+     "reach": 2178,
      "likes": 4,
      "comments": 4,
      "shares": 0,
@@ -89,8 +89,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 126,
-     "reach": 113,
+     "views": 127,
+     "reach": 114,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -107,8 +107,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1230,
-     "reach": 1065,
+     "views": 1237,
+     "reach": 1071,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -126,7 +126,7 @@
     "comments": 0,
     "insights": {
      "views": 225,
-     "reach": 188,
+     "reach": 189,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -558,11 +558,11 @@
      "period": "day",
      "values": [
       {
-       "value": 7262,
+       "value": 7263,
        "end_time": "2026-11-12T08:00:00+0000"
       },
       {
-       "value": 917,
+       "value": 12441,
        "end_time": "2026-11-13T08:00:00+0000"
       }
      ],
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 4
+      "value": 23
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794399941&until=1794486341",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794572743&until=1794659143"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794431441&until=1794517841",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794604243&until=1794690643"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "AIの王様みたいな会社、NVIDIAのトップが急に辞めた。 株価も急落してるらしい。  報道では、中国のスパイと疑われる",
     "permalink": "https://www.threads.com/@onaricreations/post/DfqKgTZmAV0",
     "insights": {
-     "views": 187,
+     "views": 189,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -627,7 +627,7 @@
     "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
     "insights": {
-     "views": 214,
+     "views": 217,
      "likes": 0,
      "replies": 7,
      "reposts": 0,
@@ -641,7 +641,7 @@
     "text": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
     "permalink": "https://www.threads.com/@onaricreations/post/DfmfGLumLTh",
     "insights": {
-     "views": 84,
+     "views": 85,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -669,7 +669,7 @@
     "text": "しまむらのセールが話題になってる。  作業着、前みたいに買えなくなった。 溶接の火花で、すぐ穴があく。 なのに値段は上が",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfj3MClnIfB",
     "insights": {
-     "views": 509,
+     "views": 510,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -711,7 +711,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5898,
+     "views": 5899,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -809,7 +809,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6791,
+     "views": 6793,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -932,7 +932,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-13T21:25+09:00",
+  "fetched_at": "2026-11-14T06:10+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
