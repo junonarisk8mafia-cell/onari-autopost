@@ -1,13 +1,31 @@
 {
- "fetched_at": "2026-11-14T06:10+09:00",
+ "fetched_at": "2026-11-14T21:08+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 15,
-   "media_count": 83,
+   "media_count": 84,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18013275567005942",
+    "time": "2026-11-14T10:08:53+0000",
+    "type": "VIDEO",
+    "caption": "子どもに「しんどそう」って言われる。  ・「1年後も物価は上がる」と答えた人は約9割で過去最高（日銀・6月の調査） ・家",
+    "permalink": "https://www.instagram.com/reel/Dft9MHQDfMt/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 42,
+     "reach": 40,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18100037003411789",
     "time": "2026-11-13T10:10:27+0000",
@@ -17,8 +35,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 29,
-     "reach": 28,
+     "views": 39,
+     "reach": 38,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +53,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 110,
-     "reach": 103,
+     "views": 112,
+     "reach": 105,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -53,8 +71,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 117,
-     "reach": 104,
+     "views": 118,
+     "reach": 105,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -71,8 +89,8 @@
     "likes": 4,
     "comments": 4,
     "insights": {
-     "views": 2469,
-     "reach": 2178,
+     "views": 2475,
+     "reach": 2183,
      "likes": 4,
      "comments": 4,
      "shares": 0,
@@ -89,7 +107,7 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 127,
+     "views": 128,
      "reach": 114,
      "likes": 0,
      "comments": 0,
@@ -107,8 +125,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1237,
-     "reach": 1071,
+     "views": 1250,
+     "reach": 1081,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -125,8 +143,8 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 225,
-     "reach": 189,
+     "views": 227,
+     "reach": 190,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -197,8 +215,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 459,
-     "reach": 335,
+     "views": 460,
+     "reach": 336,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -529,24 +547,6 @@
      "saved": 0,
      "total_interactions": 0
     }
-   },
-   {
-    "id": "18110208152189671",
-    "time": "2026-10-14T21:56:43+0000",
-    "type": "VIDEO",
-    "caption": "本屋にはAIの本が山ほどあった。 Claude、ChatGPT、Gemini…  でも「溶接×AI」の本は、1冊もなかっ",
-    "permalink": "https://www.instagram.com/reel/DefZjvjAmrF/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 14,
-     "reach": 14,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 7263,
-       "end_time": "2026-11-12T08:00:00+0000"
+       "value": 18733,
+       "end_time": "2026-11-13T08:00:00+0000"
       },
       {
-       "value": 12441,
-       "end_time": "2026-11-13T08:00:00+0000"
+       "value": 701,
+       "end_time": "2026-11-14T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 23
+      "value": 5
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 2
+      "value": 0
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794431441&until=1794517841",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794604243&until=1794690643"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794485328&until=1794571728",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794658130&until=1794744530"
    }
   },
   "posts": [
+   {
+    "id": "18079702868761897",
+    "time": "2026-11-14T10:08:24+0000",
+    "text": "しんどい時でも、聞かれたら「大丈夫っす」。  アメリカの調査で、10人に7人が 職場で「大丈夫なフリ」をしてるらしい。 ",
+    "permalink": "https://www.threads.com/@onaricreations/post/Dft9LuJmz-x",
+    "insights": {
+     "views": 287,
+     "likes": 2,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18029135657917032",
     "time": "2026-11-12T22:48:01+0000",
     "text": "AIの王様みたいな会社、NVIDIAのトップが急に辞めた。 株価も急落してるらしい。  報道では、中国のスパイと疑われる",
     "permalink": "https://www.threads.com/@onaricreations/post/DfqKgTZmAV0",
     "insights": {
-     "views": 189,
+     "views": 195,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -627,7 +641,7 @@
     "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
     "insights": {
-     "views": 217,
+     "views": 220,
      "likes": 0,
      "replies": 7,
      "reposts": 0,
@@ -711,7 +725,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5899,
+     "views": 5902,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -809,7 +823,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6793,
+     "views": 6797,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -837,7 +851,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5691,
+     "views": 5692,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -932,7 +946,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-14T06:10+09:00",
+  "fetched_at": "2026-11-14T21:08+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -1085,6 +1099,21 @@
     "length": 16.5,
     "permalink": "/reel/2973845286326800/",
     "description": "The king of AI just quit 😳\n• NVIDIA CEO Jensen Huang resigned as CEO and board member on Nov 11 (company statement)\n• CF",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "2353876202020475",
+    "date": "2026-11-14",
+    "file": "fb_g_fuku.mp4",
+    "created_time": "2026-11-14T10:08:38+0000",
+    "length": 16.5,
+    "permalink": "/reel/2353876202020475/",
+    "description": "Work clothes getting expensive? 👷\n• Polyester yarn & fabric prices up 20%+ (Teijin Frontier, from April 2026)\n• Cause: o",
     "likes": 0,
     "comments": 0,
     "insights": {},
