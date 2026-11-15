@@ -1,13 +1,31 @@
 {
- "fetched_at": "2026-11-15T06:08+09:00",
+ "fetched_at": "2026-11-15T21:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
-   "followers_count": 15,
-   "media_count": 84,
+   "followers_count": 14,
+   "media_count": 85,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18139162318640665",
+    "time": "2026-11-15T10:08:54+0000",
+    "type": "VIDEO",
+    "caption": "冬のボーナス、6年連続で増えるらしい。  民間の1人あたりのボーナスは、前年より+3.0%の見込み（第一生命経済研究所の",
+    "permalink": "https://www.instagram.com/reel/Dfwh_BmALEM/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 108,
+     "reach": 103,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18013275567005942",
     "time": "2026-11-14T10:08:53+0000",
@@ -17,8 +35,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 70,
-     "reach": 68,
+     "views": 108,
+     "reach": 103,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -125,8 +143,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1256,
-     "reach": 1087,
+     "views": 1271,
+     "reach": 1100,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -529,24 +547,6 @@
      "saved": 0,
      "total_interactions": 0
     }
-   },
-   {
-    "id": "18113849006028813",
-    "time": "2026-10-15T21:45:45+0000",
-    "type": "VIDEO",
-    "caption": "「AIに仕事を奪われる」 本屋は、そんな本でいっぱいだった。  でも、AIは溶接ビードを引けない。  手で覚えた技術は、",
-    "permalink": "https://www.instagram.com/reel/Deh9F5jDKIC/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 49,
-     "reach": 46,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 18735,
-       "end_time": "2026-11-13T08:00:00+0000"
+       "value": 1733,
+       "end_time": "2026-11-14T08:00:00+0000"
       },
       {
-       "value": 1043,
-       "end_time": "2026-11-14T08:00:00+0000"
+       "value": 121,
+       "end_time": "2026-11-15T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 6
+      "value": 1
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 0
+      "value": 2
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -596,25 +596,39 @@
      "title": "followers_count",
      "description": "This is your total number of followers on Threads.",
      "total_value": {
-      "value": 12
+      "value": 14
      },
      "id": "17841416095292156/insights/followers_count/day"
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794517712&until=1794604112",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794690514&until=1794776914"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794571760&until=1794658160",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794744562&until=1794830962"
    }
   },
   "posts": [
+   {
+    "id": "18150700525634608",
+    "time": "2026-11-15T10:08:28+0000",
+    "text": "日曜。今週もなんとか終わった。  6日働いて、腰にきてる。  日曜の回復法、ひとつだけ教えて。",
+    "permalink": "https://www.threads.com/@onaricreations/post/Dfwh-t0lmMW",
+    "insights": {
+     "views": 101,
+     "likes": 1,
+     "replies": 2,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18079702868761897",
     "time": "2026-11-14T10:08:24+0000",
     "text": "しんどい時でも、聞かれたら「大丈夫っす」。  アメリカの調査で、10人に7人が 職場で「大丈夫なフリ」をしてるらしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dft9LuJmz-x",
     "insights": {
-     "views": 306,
-     "likes": 3,
+     "views": 318,
+     "likes": 5,
      "replies": 0,
      "reposts": 0,
      "quotes": 0,
@@ -627,7 +641,7 @@
     "text": "AIの王様みたいな会社、NVIDIAのトップが急に辞めた。 株価も急落してるらしい。  報道では、中国のスパイと疑われる",
     "permalink": "https://www.threads.com/@onaricreations/post/DfqKgTZmAV0",
     "insights": {
-     "views": 196,
+     "views": 199,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +655,7 @@
     "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
     "insights": {
-     "views": 221,
+     "views": 222,
      "likes": 0,
      "replies": 7,
      "reposts": 0,
@@ -655,7 +669,7 @@
     "text": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
     "permalink": "https://www.threads.com/@onaricreations/post/DfmfGLumLTh",
     "insights": {
-     "views": 85,
+     "views": 86,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -725,7 +739,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5904,
+     "views": 5908,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -823,7 +837,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6798,
+     "views": 6802,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -946,7 +960,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-15T06:08+09:00",
+  "fetched_at": "2026-11-15T21:09+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -1114,6 +1128,21 @@
     "length": 16.5,
     "permalink": "/reel/2353876202020475/",
     "description": "Work clothes getting expensive? 👷\n• Polyester yarn & fabric prices up 20%+ (Teijin Frontier, from April 2026)\n• Cause: o",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "3847508825422834",
+    "date": "2026-11-15",
+    "file": "fb_g_denki.mp4",
+    "created_time": "2026-11-15T10:08:40+0000",
+    "length": 16.5,
+    "permalink": "/reel/3847508825422834/",
+    "description": "Winter electric bill? A discount is coming ⚡\n• Electricity: ¥1 off per kWh in December, ¥4.5 off per kWh in January & Fe",
     "likes": 0,
     "comments": 0,
     "insights": {},
