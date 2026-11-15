@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-15T21:09+09:00",
+ "fetched_at": "2026-11-16T06:08+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 108,
-     "reach": 103,
+     "views": 109,
+     "reach": 104,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -143,8 +143,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1271,
-     "reach": 1100,
+     "views": 1274,
+     "reach": 1103,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -562,7 +562,7 @@
        "end_time": "2026-11-14T08:00:00+0000"
       },
       {
-       "value": 121,
+       "value": 221,
        "end_time": "2026-11-15T08:00:00+0000"
       }
      ],
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 1
+      "value": 5
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 2
+      "value": 4
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794571760&until=1794658160",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794744562&until=1794830962"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794604134&until=1794690534",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794776936&until=1794863336"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "日曜。今週もなんとか終わった。  6日働いて、腰にきてる。  日曜の回復法、ひとつだけ教えて。",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfwh-t0lmMW",
     "insights": {
-     "views": 101,
+     "views": 116,
      "likes": 1,
      "replies": 2,
      "reposts": 0,
@@ -627,7 +627,7 @@
     "text": "しんどい時でも、聞かれたら「大丈夫っす」。  アメリカの調査で、10人に7人が 職場で「大丈夫なフリ」をしてるらしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dft9LuJmz-x",
     "insights": {
-     "views": 318,
+     "views": 319,
      "likes": 5,
      "replies": 0,
      "reposts": 0,
@@ -739,7 +739,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5908,
+     "views": 5910,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -767,8 +767,8 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1680,
-     "likes": 44,
+     "views": 1683,
+     "likes": 45,
      "replies": 3,
      "reposts": 0,
      "quotes": 0,
@@ -960,7 +960,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-15T21:09+09:00",
+  "fetched_at": "2026-11-16T06:09+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
