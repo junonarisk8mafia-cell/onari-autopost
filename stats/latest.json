@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T21:09+09:00",
+ "fetched_at": "2026-11-20T06:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 74,
-     "reach": 53,
+     "views": 125,
+     "reach": 114,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +35,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 137,
-     "reach": 119,
+     "views": 138,
+     "reach": 120,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -53,8 +53,8 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 117,
-     "reach": 109,
+     "views": 118,
+     "reach": 110,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -71,8 +71,8 @@
     "likes": 10,
     "comments": 0,
     "insights": {
-     "views": 2921,
-     "reach": 2294,
+     "views": 2967,
+     "reach": 2328,
      "likes": 10,
      "comments": 0,
      "shares": 2,
@@ -89,8 +89,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 123,
-     "reach": 117,
+     "views": 124,
+     "reach": 118,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -563,7 +563,7 @@
        "end_time": "2026-11-18T08:00:00+0000"
       },
       {
-       "value": 226,
+       "value": 276,
        "end_time": "2026-11-19T08:00:00+0000"
       }
      ],
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794917393&until=1795003793",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795090195&until=1795176595"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794949749&until=1795036149",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795122551&until=1795208951"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "造船所で一番すごいと思うのは、クレーンの運転士。  ブロックを反転する時や、壁で見えへん所は、 玉掛けの指示だけを頼りに",
     "permalink": "https://www.threads.com/@onaricreations/post/Df61MRMEQP3",
     "insights": {
-     "views": 180,
+     "views": 208,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -627,7 +627,7 @@
     "text": "俺の現場は、30〜40代が多い。  せやから「現場に40〜50代がいない」って話が回ってきて、ちょっと驚いた。 このまま",
     "permalink": "https://www.threads.com/@onaricreations/post/Df4QXwYIJnp",
     "insights": {
-     "views": 358,
+     "views": 359,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -641,7 +641,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7223,
+     "views": 7227,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -655,7 +655,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14020,
+     "views": 14021,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -697,7 +697,7 @@
     "text": "AIの王様みたいな会社、NVIDIAのトップが急に辞めた。 株価も急落してるらしい。  報道では、中国のスパイと疑われる",
     "permalink": "https://www.threads.com/@onaricreations/post/DfqKgTZmAV0",
     "insights": {
-     "views": 250,
+     "views": 251,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -795,7 +795,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5931,
+     "views": 5932,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -921,7 +921,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5709,
+     "views": 5711,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -1016,7 +1016,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-19T21:10+09:00",
+  "fetched_at": "2026-11-20T06:09+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
