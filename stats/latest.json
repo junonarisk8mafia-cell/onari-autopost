@@ -1,13 +1,31 @@
 {
- "fetched_at": "2026-11-19T06:09+09:00",
+ "fetched_at": "2026-11-19T21:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 16,
-   "media_count": 88,
+   "media_count": 89,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18082348931388196",
+    "time": "2026-11-19T10:09:40+0000",
+    "type": "VIDEO",
+    "caption": "残業を増やした。返済は1円も変わらんかった。  25〜34歳の正社員で、人生の悩みを感じてる人の悩み、 1位「十分に稼げ",
+    "permalink": "https://www.instagram.com/reel/Df61QknjN3R/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 74,
+     "reach": 53,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18132054187634043",
     "time": "2026-11-18T10:09:09+0000",
@@ -17,8 +35,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 131,
-     "reach": 113,
+     "views": 137,
+     "reach": 119,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -53,8 +71,8 @@
     "likes": 10,
     "comments": 0,
     "insights": {
-     "views": 2796,
-     "reach": 2204,
+     "views": 2921,
+     "reach": 2294,
      "likes": 10,
      "comments": 0,
      "shares": 2,
@@ -197,13 +215,13 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1293,
-     "reach": 1121,
+     "views": 1296,
+     "reach": 1123,
      "likes": 5,
      "comments": 0,
      "shares": 0,
      "saved": 0,
-     "total_interactions": 6
+     "total_interactions": 5
     }
    },
    {
@@ -323,8 +341,8 @@
     "likes": 5,
     "comments": 1,
     "insights": {
-     "views": 994,
-     "reach": 748,
+     "views": 996,
+     "reach": 749,
      "likes": 5,
      "comments": 1,
      "shares": 0,
@@ -529,24 +547,6 @@
      "saved": 0,
      "total_interactions": 1
     }
-   },
-   {
-    "id": "18107779361573765",
-    "time": "2026-10-20T21:51:45+0000",
-    "type": "VIDEO",
-    "caption": "夜明け前、現場への道。  誰も見てない。 誰にも褒められない。  でも、ここから人生を立て直す。 誰も見てない時間が、い",
-    "permalink": "https://www.instagram.com/reel/Deu1xCGFM1v/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 126,
-     "reach": 117,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -554,66 +554,80 @@
   "account": {
    "data": [
     {
+     "id": "17841416095292156/insights/views/day",
      "name": "views",
      "period": "day",
      "values": [
       {
-       "value": 10778,
-       "end_time": "2026-11-17T08:00:00+0000"
+       "value": 723,
+       "end_time": "2026-11-18T08:00:00+0000"
       },
       {
-       "value": 640,
-       "end_time": "2026-11-18T08:00:00+0000"
+       "value": 226,
+       "end_time": "2026-11-19T08:00:00+0000"
       }
      ],
      "title": "views",
-     "description": "The number of times your profile was viewed.",
-     "id": "17841416095292156/insights/views/day"
+     "description": "The number of times your profile was viewed."
     },
     {
+     "id": "17841416095292156/insights/likes/day",
      "name": "likes",
      "period": "day",
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 1
-     },
-     "id": "17841416095292156/insights/likes/day"
+      "value": 0
+     }
     },
     {
+     "id": "17841416095292156/insights/replies/day",
      "name": "replies",
      "period": "day",
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 1
-     },
-     "id": "17841416095292156/insights/replies/day"
+      "value": 0
+     }
     },
     {
+     "id": "17841416095292156/insights/followers_count/day",
      "name": "followers_count",
      "period": "day",
      "title": "followers_count",
      "description": "This is your total number of followers on Threads.",
      "total_value": {
       "value": 15
-     },
-     "id": "17841416095292156/insights/followers_count/day"
+     }
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794863357&until=1794949757",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795036159&until=1795122559"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794917393&until=1795003793",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795090195&until=1795176595"
    }
   },
   "posts": [
+   {
+    "id": "17977526106160318",
+    "time": "2026-11-19T10:08:42+0000",
+    "text": "造船所で一番すごいと思うのは、クレーンの運転士。  ブロックを反転する時や、壁で見えへん所は、 玉掛けの指示だけを頼りに",
+    "permalink": "https://www.threads.com/@onaricreations/post/Df61MRMEQP3",
+    "insights": {
+     "views": 180,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18083536949379462",
     "time": "2026-11-18T10:08:31+0000",
     "text": "俺の現場は、30〜40代が多い。  せやから「現場に40〜50代がいない」って話が回ってきて、ちょっと驚いた。 このまま",
     "permalink": "https://www.threads.com/@onaricreations/post/Df4QXwYIJnp",
     "insights": {
-     "views": 270,
+     "views": 358,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -627,8 +641,8 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7215,
-     "likes": 37,
+     "views": 7223,
+     "likes": 36,
      "replies": 15,
      "reposts": 0,
      "quotes": 0,
@@ -641,7 +655,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14013,
+     "views": 14020,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -655,7 +669,7 @@
     "text": "日曜。今週もなんとか終わった。  6日働いて、腰にきてる。  日曜の回復法、ひとつだけ教えて。",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfwh-t0lmMW",
     "insights": {
-     "views": 195,
+     "views": 196,
      "likes": 1,
      "replies": 2,
      "reposts": 0,
@@ -669,7 +683,7 @@
     "text": "しんどい時でも、聞かれたら「大丈夫っす」。  アメリカの調査で、10人に7人が 職場で「大丈夫なフリ」をしてるらしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dft9LuJmz-x",
     "insights": {
-     "views": 381,
+     "views": 382,
      "likes": 5,
      "replies": 0,
      "reposts": 0,
@@ -683,7 +697,7 @@
     "text": "AIの王様みたいな会社、NVIDIAのトップが急に辞めた。 株価も急落してるらしい。  報道では、中国のスパイと疑われる",
     "permalink": "https://www.threads.com/@onaricreations/post/DfqKgTZmAV0",
     "insights": {
-     "views": 249,
+     "views": 250,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -697,7 +711,7 @@
     "text": "学校説明会にコーヒー持っていくのはアリかナシか、で揉めてるらしい。  現場やと、朝の缶コーヒーは儀式みたいなもん。 あれ",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfozr9elQ69",
     "insights": {
-     "views": 269,
+     "views": 270,
      "likes": 0,
      "replies": 7,
      "reposts": 0,
@@ -711,7 +725,7 @@
     "text": "20万で殴っても、6万しか効かない。  毎月の返済20万のうち、14万は利息と延滞金に吸われる。 借金のHPは、ほとんど",
     "permalink": "https://www.threads.com/@onaricreations/post/DfmfGLumLTh",
     "insights": {
-     "views": 125,
+     "views": 126,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -781,7 +795,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5929,
+     "views": 5931,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -809,7 +823,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1698,
+     "views": 1699,
      "likes": 45,
      "replies": 3,
      "reposts": 0,
@@ -851,7 +865,7 @@
     "text": "子どもによく言われる。 「お父さん、しんどそうな顔してる」  まじでしんどい。 けど、子どもの顔見ると諦められない。  ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfVuvQdGgzx",
     "insights": {
-     "views": 1790,
+     "views": 1791,
      "likes": 28,
      "replies": 6,
      "reposts": 0,
@@ -879,7 +893,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6820,
+     "views": 6822,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -907,7 +921,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5708,
+     "views": 5709,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -1002,7 +1016,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-19T06:09+09:00",
+  "fetched_at": "2026-11-19T21:10+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
