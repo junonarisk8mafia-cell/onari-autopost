@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-20T06:09+09:00",
+ "fetched_at": "2026-11-20T21:10+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 125,
-     "reach": 114,
+     "views": 132,
+     "reach": 121,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,8 +35,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 138,
-     "reach": 120,
+     "views": 139,
+     "reach": 121,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -71,8 +71,8 @@
     "likes": 10,
     "comments": 0,
     "insights": {
-     "views": 2967,
-     "reach": 2328,
+     "views": 3164,
+     "reach": 2450,
      "likes": 10,
      "comments": 0,
      "shares": 2,
@@ -215,8 +215,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1296,
-     "reach": 1123,
+     "views": 1297,
+     "reach": 1124,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -233,8 +233,8 @@
     "likes": 3,
     "comments": 0,
     "insights": {
-     "views": 235,
-     "reach": 197,
+     "views": 236,
+     "reach": 198,
      "likes": 3,
      "comments": 0,
      "shares": 0,
@@ -251,8 +251,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 163,
-     "reach": 132,
+     "views": 164,
+     "reach": 133,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -559,12 +559,12 @@
      "period": "day",
      "values": [
       {
-       "value": 723,
-       "end_time": "2026-11-18T08:00:00+0000"
+       "value": 343,
+       "end_time": "2026-11-19T08:00:00+0000"
       },
       {
-       "value": 276,
-       "end_time": "2026-11-19T08:00:00+0000"
+       "value": 163,
+       "end_time": "2026-11-20T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1794949749&until=1795036149",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795122551&until=1795208951"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795003824&until=1795090224",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795176626&until=1795263026"
    }
   },
   "posts": [
+   {
+    "id": "17950230285349253",
+    "time": "2026-11-20T10:08:36+0000",
+    "text": "正直、家はほしい。 でも買うと、あとあと面倒やから考えてる。  子育て世帯が中古の家を買う時、フラット35の金利が優遇さ",
+    "permalink": "https://www.threads.com/@onaricreations/post/Df9Z-CGFjU1",
+    "insights": {
+     "views": 151,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "17977526106160318",
     "time": "2026-11-19T10:08:42+0000",
     "text": "造船所で一番すごいと思うのは、クレーンの運転士。  ブロックを反転する時や、壁で見えへん所は、 玉掛けの指示だけを頼りに",
     "permalink": "https://www.threads.com/@onaricreations/post/Df61MRMEQP3",
     "insights": {
-     "views": 208,
+     "views": 257,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +655,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7227,
+     "views": 7236,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -655,7 +669,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14021,
+     "views": 14027,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -1016,7 +1030,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-20T06:09+09:00",
+  "fetched_at": "2026-11-20T21:10+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
