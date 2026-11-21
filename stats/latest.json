@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T06:09+09:00",
+ "fetched_at": "2026-11-21T21:08+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 132,
-     "reach": 121,
+     "views": 133,
+     "reach": 122,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,7 +35,7 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 139,
+     "views": 140,
      "reach": 121,
      "likes": 1,
      "comments": 0,
@@ -53,7 +53,7 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 118,
+     "views": 119,
      "reach": 110,
      "likes": 2,
      "comments": 0,
@@ -68,16 +68,16 @@
     "type": "VIDEO",
     "caption": "造船所が、また撤退していく。  ・日本の造船の世界シェアは約13%。かつては世界1位だった ・造船で働く人は、2016年",
     "permalink": "https://www.instagram.com/reel/DfzGzUlmSS6/",
-    "likes": 10,
+    "likes": 12,
     "comments": 0,
     "insights": {
-     "views": 3193,
-     "reach": 2467,
-     "likes": 10,
+     "views": 3244,
+     "reach": 2518,
+     "likes": 12,
      "comments": 0,
      "shares": 2,
      "saved": 2,
-     "total_interactions": 15
+     "total_interactions": 17
     }
    },
    {
@@ -89,8 +89,8 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 124,
-     "reach": 118,
+     "views": 126,
+     "reach": 119,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -107,7 +107,7 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 119,
+     "views": 120,
      "reach": 112,
      "likes": 1,
      "comments": 0,
@@ -179,7 +179,7 @@
     "likes": 5,
     "comments": 4,
     "insights": {
-     "views": 2492,
+     "views": 2493,
      "reach": 2198,
      "likes": 5,
      "comments": 4,
@@ -215,7 +215,7 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1297,
+     "views": 1298,
      "reach": 1124,
      "likes": 5,
      "comments": 0,
@@ -269,7 +269,7 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 171,
+     "views": 172,
      "reach": 135,
      "likes": 1,
      "comments": 0,
@@ -559,12 +559,12 @@
      "period": "day",
      "values": [
       {
-       "value": 343,
-       "end_time": "2026-11-19T08:00:00+0000"
+       "value": 204,
+       "end_time": "2026-11-20T08:00:00+0000"
       },
       {
-       "value": 191,
-       "end_time": "2026-11-20T08:00:00+0000"
+       "value": 74,
+       "end_time": "2026-11-21T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795036195&until=1795122595",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795208997&until=1795295397"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795090117&until=1795176517",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795262919&until=1795349319"
    }
   },
   "posts": [
+   {
+    "id": "17920082403518998",
+    "time": "2026-11-21T10:08:42+0000",
+    "text": "スペースXが、宇宙船を巨大なクレーンの腕で空中キャッチしたらしい。  それで思い出した。 イーロン・マスクが去年、ジョー",
+    "permalink": "https://www.threads.com/@onaricreations/post/Df_-xqyoalB",
+    "insights": {
+     "views": 65,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "17950230285349253",
     "time": "2026-11-20T10:08:36+0000",
     "text": "正直、家はほしい。 でも買うと、あとあと面倒やから考えてる。  子育て世帯が中古の家を買う時、フラット35の金利が優遇さ",
     "permalink": "https://www.threads.com/@onaricreations/post/Df9Z-CGFjU1",
     "insights": {
-     "views": 162,
+     "views": 165,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -627,7 +641,7 @@
     "text": "造船所で一番すごいと思うのは、クレーンの運転士。  ブロックを反転する時や、壁で見えへん所は、 玉掛けの指示だけを頼りに",
     "permalink": "https://www.threads.com/@onaricreations/post/Df61MRMEQP3",
     "insights": {
-     "views": 257,
+     "views": 258,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -655,7 +669,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7240,
+     "views": 7243,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -669,7 +683,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14033,
+     "views": 14037,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -837,7 +851,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1699,
+     "views": 1700,
      "likes": 45,
      "replies": 3,
      "reposts": 0,
@@ -907,7 +921,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6824,
+     "views": 6825,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -1012,25 +1026,11 @@
      "quotes": 0,
      "shares": 0
     }
-   },
-   {
-    "id": "18211500781366525",
-    "time": "2026-10-25T21:14:48+0000",
-    "text": "雨の朝、現場へ。  借金800万の溶接工。 昼は造船所で火花を浴びて、 夜はアプリを作ってる。  完済の日まで、面は上げ",
-    "permalink": "https://www.threads.com/@onaricreations/post/De7pfx2kY0v",
-    "insights": {
-     "views": 115,
-     "likes": 0,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    }
    }
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-21T06:10+09:00",
+  "fetched_at": "2026-11-21T21:08+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
