@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T21:10+09:00",
+ "fetched_at": "2026-11-24T06:10+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -71,8 +71,8 @@
     "likes": 14,
     "comments": 0,
     "insights": {
-     "views": 3357,
-     "reach": 2584,
+     "views": 3367,
+     "reach": 2594,
      "likes": 14,
      "comments": 0,
      "shares": 2,
@@ -90,7 +90,7 @@
     "comments": 0,
     "insights": {
      "views": 128,
-     "reach": 120,
+     "reach": 121,
      "likes": 1,
      "comments": 0,
      "shares": 0,
@@ -143,8 +143,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 120,
-     "reach": 113,
+     "views": 121,
+     "reach": 114,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -179,8 +179,8 @@
     "likes": 5,
     "comments": 4,
     "insights": {
-     "views": 2497,
-     "reach": 2200,
+     "views": 2498,
+     "reach": 2201,
      "likes": 5,
      "comments": 4,
      "shares": 0,
@@ -554,7 +554,6 @@
   "account": {
    "data": [
     {
-     "id": "17841416095292156/insights/views/day",
      "name": "views",
      "period": "day",
      "values": [
@@ -563,47 +562,48 @@
        "end_time": "2026-11-22T08:00:00+0000"
       },
       {
-       "value": 19,
+       "value": 33,
        "end_time": "2026-11-23T08:00:00+0000"
       }
      ],
      "title": "views",
-     "description": "The number of times your profile was viewed."
+     "description": "The number of times your profile was viewed.",
+     "id": "17841416095292156/insights/views/day"
     },
     {
-     "id": "17841416095292156/insights/likes/day",
      "name": "likes",
      "period": "day",
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
       "value": 1
-     }
+     },
+     "id": "17841416095292156/insights/likes/day"
     },
     {
-     "id": "17841416095292156/insights/replies/day",
      "name": "replies",
      "period": "day",
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
       "value": 1
-     }
+     },
+     "id": "17841416095292156/insights/replies/day"
     },
     {
-     "id": "17841416095292156/insights/followers_count/day",
      "name": "followers_count",
      "period": "day",
      "title": "followers_count",
      "description": "This is your total number of followers on Threads.",
      "total_value": {
       "value": 16
-     }
+     },
+     "id": "17841416095292156/insights/followers_count/day"
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795263069&until=1795349469",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795435871&until=1795522271"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795295455&until=1795381855",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795468257&until=1795554657"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "今、俺が払ってるサブスクは、AIだけ。  その分、AIを相棒にして、溶接の仕事終わりにアプリを作ってる。 溶接の知識をク",
     "permalink": "https://www.threads.com/@onaricreations/post/DgCj6XxFsTX",
     "insights": {
-     "views": 73,
+     "views": 78,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
@@ -641,7 +641,7 @@
     "text": "正直、家はほしい。 でも買うと、あとあと面倒やから考えてる。  子育て世帯が中古の家を買う時、フラット35の金利が優遇さ",
     "permalink": "https://www.threads.com/@onaricreations/post/Df9Z-CGFjU1",
     "insights": {
-     "views": 172,
+     "views": 173,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -683,7 +683,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7254,
+     "views": 7255,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -697,7 +697,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14064,
+     "views": 14068,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -837,7 +837,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5938,
+     "views": 5939,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -865,7 +865,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1701,
+     "views": 1702,
      "likes": 45,
      "replies": 3,
      "reposts": 0,
@@ -963,7 +963,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5716,
+     "views": 5717,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -1030,7 +1030,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-23T21:11+09:00",
+  "fetched_at": "2026-11-24T06:11+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
