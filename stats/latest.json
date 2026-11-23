@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T06:08+09:00",
+ "fetched_at": "2026-11-23T21:10+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -35,7 +35,7 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 141,
+     "views": 142,
      "reach": 122,
      "likes": 1,
      "comments": 0,
@@ -53,7 +53,7 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 120,
+     "views": 121,
      "reach": 111,
      "likes": 2,
      "comments": 0,
@@ -71,8 +71,8 @@
     "likes": 14,
     "comments": 0,
     "insights": {
-     "views": 3331,
-     "reach": 2566,
+     "views": 3357,
+     "reach": 2584,
      "likes": 14,
      "comments": 0,
      "shares": 2,
@@ -89,7 +89,7 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 127,
+     "views": 128,
      "reach": 120,
      "likes": 1,
      "comments": 0,
@@ -179,8 +179,8 @@
     "likes": 5,
     "comments": 4,
     "insights": {
-     "views": 2496,
-     "reach": 2199,
+     "views": 2497,
+     "reach": 2200,
      "likes": 5,
      "comments": 4,
      "shares": 0,
@@ -215,8 +215,8 @@
     "likes": 5,
     "comments": 0,
     "insights": {
-     "views": 1300,
-     "reach": 1126,
+     "views": 1301,
+     "reach": 1127,
      "likes": 5,
      "comments": 0,
      "shares": 0,
@@ -559,12 +559,12 @@
      "period": "day",
      "values": [
       {
-       "value": 124,
-       "end_time": "2026-11-21T08:00:00+0000"
+       "value": 128,
+       "end_time": "2026-11-22T08:00:00+0000"
       },
       {
-       "value": 89,
-       "end_time": "2026-11-22T08:00:00+0000"
+       "value": 19,
+       "end_time": "2026-11-23T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -577,7 +577,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 0
+      "value": 1
      }
     },
     {
@@ -587,7 +587,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 0
+      "value": 1
      }
     },
     {
@@ -597,13 +597,13 @@
      "title": "followers_count",
      "description": "This is your total number of followers on Threads.",
      "total_value": {
-      "value": 15
+      "value": 16
      }
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795208946&until=1795295346",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795381748&until=1795468148"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795263069&until=1795349469",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795435871&until=1795522271"
    }
   },
   "posts": [
@@ -613,9 +613,9 @@
     "text": "今、俺が払ってるサブスクは、AIだけ。  その分、AIを相棒にして、溶接の仕事終わりにアプリを作ってる。 溶接の知識をク",
     "permalink": "https://www.threads.com/@onaricreations/post/DgCj6XxFsTX",
     "insights": {
-     "views": 64,
-     "likes": 0,
-     "replies": 0,
+     "views": 73,
+     "likes": 1,
+     "replies": 1,
      "reposts": 0,
      "quotes": 0,
      "shares": 0
@@ -627,7 +627,7 @@
     "text": "スペースXが、宇宙船を巨大なクレーンの腕で空中キャッチしたらしい。  それで思い出した。 イーロン・マスクが去年、ジョー",
     "permalink": "https://www.threads.com/@onaricreations/post/Df_-xqyoalB",
     "insights": {
-     "views": 77,
+     "views": 78,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +641,7 @@
     "text": "正直、家はほしい。 でも買うと、あとあと面倒やから考えてる。  子育て世帯が中古の家を買う時、フラット35の金利が優遇さ",
     "permalink": "https://www.threads.com/@onaricreations/post/Df9Z-CGFjU1",
     "insights": {
-     "views": 167,
+     "views": 172,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -683,7 +683,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7249,
+     "views": 7254,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -697,7 +697,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14054,
+     "views": 14064,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -795,7 +795,7 @@
     "text": "しまむらのセールが話題になってる。  作業着、前みたいに買えなくなった。 溶接の火花で、すぐ穴があく。 なのに値段は上が",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfj3MClnIfB",
     "insights": {
-     "views": 527,
+     "views": 528,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -837,7 +837,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5936,
+     "views": 5938,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -893,7 +893,7 @@
     "text": "金曜。今週も月曜から火花浴びた。  作業着、まじで穴だらけ。 最近の作業着、バリ高いしなぁ。  職人のみんな、最近の作業",
     "permalink": "https://www.threads.com/@onaricreations/post/DfYY5A2mmgE",
     "insights": {
-     "views": 421,
+     "views": 422,
      "likes": 3,
      "replies": 0,
      "reposts": 0,
@@ -935,7 +935,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6827,
+     "views": 6831,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -963,7 +963,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5715,
+     "views": 5716,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -1030,7 +1030,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-23T06:09+09:00",
+  "fetched_at": "2026-11-23T21:11+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
