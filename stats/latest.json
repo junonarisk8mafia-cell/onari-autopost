@@ -1,13 +1,31 @@
 {
- "fetched_at": "2026-11-24T06:10+09:00",
+ "fetched_at": "2026-11-24T21:10+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 16,
-   "media_count": 89,
+   "media_count": 90,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18662691931044935",
+    "time": "2026-11-24T10:11:36+0000",
+    "type": "VIDEO",
+    "caption": "作業着で行けば、ラーメン70円。  11月23日の勤労感謝の日、静岡・磐田の「スズキラーメン」で、スーツか作業服で行くと",
+    "permalink": "https://www.instagram.com/reel/DgHtcawgExE/",
+    "likes": 2,
+    "comments": 0,
+    "insights": {
+     "views": 141,
+     "reach": 126,
+     "likes": 2,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 2
+    }
+   },
    {
     "id": "18082348931388196",
     "time": "2026-11-19T10:09:40+0000",
@@ -71,8 +89,8 @@
     "likes": 14,
     "comments": 0,
     "insights": {
-     "views": 3367,
-     "reach": 2594,
+     "views": 3401,
+     "reach": 2623,
      "likes": 14,
      "comments": 0,
      "shares": 2,
@@ -529,24 +547,6 @@
      "saved": 0,
      "total_interactions": 1
     }
-   },
-   {
-    "id": "18096780368133205",
-    "time": "2026-10-21T21:58:54+0000",
-    "type": "VIDEO",
-    "caption": "本屋に「AI仕事術フェア」ができてた。  AIの本だけで、棚がひとつ。  でも俺は、その本を1冊も読まずに Claude",
-    "permalink": "https://www.instagram.com/reel/DexbXL3koqW/",
-    "likes": 1,
-    "comments": 0,
-    "insights": {
-     "views": 119,
-     "reach": 101,
-     "likes": 1,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 1
-    }
    }
   ]
  },
@@ -558,12 +558,12 @@
      "period": "day",
      "values": [
       {
-       "value": 128,
-       "end_time": "2026-11-22T08:00:00+0000"
+       "value": 49,
+       "end_time": "2026-11-23T08:00:00+0000"
       },
       {
-       "value": 33,
-       "end_time": "2026-11-23T08:00:00+0000"
+       "value": 140,
+       "end_time": "2026-11-24T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -576,7 +576,7 @@
      "title": "likes",
      "description": "The number of likes on your posts.",
      "total_value": {
-      "value": 1
+      "value": 0
      },
      "id": "17841416095292156/insights/likes/day"
     },
@@ -586,7 +586,7 @@
      "title": "replies",
      "description": "The number of replies on your posts.",
      "total_value": {
-      "value": 1
+      "value": 0
      },
      "id": "17841416095292156/insights/replies/day"
     },
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795295455&until=1795381855",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795468257&until=1795554657"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795349463&until=1795435863",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795522265&until=1795608665"
    }
   },
   "posts": [
+   {
+    "id": "18127184914705095",
+    "time": "2026-11-24T10:10:53+0000",
+    "text": "勤労感謝の日、作業着で行けばラーメン70円の店があったらしい。 毎年10円ずつ下げて、2032年には10円を目指すとか。",
+    "permalink": "https://www.threads.com/@onaricreations/post/DgHtaIsHNy0",
+    "insights": {
+     "views": 134,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "18022726961956377",
     "time": "2026-11-22T10:11:37+0000",
     "text": "今、俺が払ってるサブスクは、AIだけ。  その分、AIを相棒にして、溶接の仕事終わりにアプリを作ってる。 溶接の知識をク",
     "permalink": "https://www.threads.com/@onaricreations/post/DgCj6XxFsTX",
     "insights": {
-     "views": 78,
+     "views": 82,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
@@ -627,7 +641,7 @@
     "text": "スペースXが、宇宙船を巨大なクレーンの腕で空中キャッチしたらしい。  それで思い出した。 イーロン・マスクが去年、ジョー",
     "permalink": "https://www.threads.com/@onaricreations/post/Df_-xqyoalB",
     "insights": {
-     "views": 78,
+     "views": 79,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -669,7 +683,7 @@
     "text": "俺の現場は、30〜40代が多い。  せやから「現場に40〜50代がいない」って話が回ってきて、ちょっと驚いた。 このまま",
     "permalink": "https://www.threads.com/@onaricreations/post/Df4QXwYIJnp",
     "insights": {
-     "views": 359,
+     "views": 360,
      "likes": 0,
      "replies": 1,
      "reposts": 0,
@@ -683,7 +697,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7255,
+     "views": 7259,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -697,7 +711,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14068,
+     "views": 14074,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -711,7 +725,7 @@
     "text": "日曜。今週もなんとか終わった。  6日働いて、腰にきてる。  日曜の回復法、ひとつだけ教えて。",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfwh-t0lmMW",
     "insights": {
-     "views": 196,
+     "views": 197,
      "likes": 1,
      "replies": 2,
      "reposts": 0,
@@ -935,7 +949,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6831,
+     "views": 6832,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -1012,31 +1026,17 @@
      "quotes": 0,
      "shares": 0
     }
-   },
-   {
-    "id": "18063383057532099",
-    "time": "2026-10-27T22:36:43+0000",
-    "text": "借金溶接工の1週間を、10秒で。  朝4時の起床から、 雨の現場、昼めし、夜のアプリ開発、 日曜の屋上まで。  これが今",
-    "permalink": "https://www.threads.com/@onaricreations/post/DfA8di5jFiZ",
-    "insights": {
-     "views": 108,
-     "likes": 0,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    }
    }
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-24T06:11+09:00",
+  "fetched_at": "2026-11-24T21:11+09:00",
   "page": {
-   "name": "Debt Welder Japan - Onari Creations",
-   "followers_count": 1,
-   "fan_count": 1,
+   "id": "1342658825601783",
    "link": "https://www.facebook.com/1342658825601783",
-   "id": "1342658825601783"
+   "name": "Debt Welder Japan - Onari Creations",
+   "fan_count": 1,
+   "followers_count": 1
   },
   "page_insights": {
    "_error": "(#100) The value must be a valid insights metric"
@@ -1215,6 +1215,21 @@
     "description": "Winter electric bill? A discount is coming ⚡\n• Electricity: ¥1 off per kWh in December, ¥4.5 off per kWh in January & Fe",
     "likes": 1,
     "comments": 3,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "2019070735719325",
+    "date": "2026-11-24",
+    "file": "fb_g_taishoku.mp4",
+    "created_time": "2026-11-24T10:10:47+0000",
+    "length": 16.5,
+    "permalink": "/reel/2019070735719325/",
+    "description": "No warning. They just quit. 😶\n• In Japan, \"surprise quitting\" is rising: a worker seems fine, then one day says \"I quit.",
+    "likes": 0,
+    "comments": 0,
     "insights": {},
     "errors": {
      "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
