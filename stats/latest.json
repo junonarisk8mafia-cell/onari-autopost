@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-24T21:10+09:00",
+ "fetched_at": "2026-11-25T06:10+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 141,
-     "reach": 126,
+     "views": 205,
+     "reach": 186,
      "likes": 2,
      "comments": 0,
      "shares": 0,
@@ -86,16 +86,16 @@
     "type": "VIDEO",
     "caption": "造船所が、また撤退していく。  ・日本の造船の世界シェアは約13%。かつては世界1位だった ・造船で働く人は、2016年",
     "permalink": "https://www.instagram.com/reel/DfzGzUlmSS6/",
-    "likes": 14,
+    "likes": 15,
     "comments": 0,
     "insights": {
-     "views": 3401,
-     "reach": 2623,
-     "likes": 14,
+     "views": 3419,
+     "reach": 2627,
+     "likes": 15,
      "comments": 0,
      "shares": 2,
      "saved": 2,
-     "total_interactions": 19
+     "total_interactions": 20
     }
    },
    {
@@ -562,7 +562,7 @@
        "end_time": "2026-11-23T08:00:00+0000"
       },
       {
-       "value": 140,
+       "value": 166,
        "end_time": "2026-11-24T08:00:00+0000"
       }
      ],
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795349463&until=1795435863",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795522265&until=1795608665"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795381860&until=1795468260",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795554662&until=1795641062"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "勤労感謝の日、作業着で行けばラーメン70円の店があったらしい。 毎年10円ずつ下げて、2032年には10円を目指すとか。",
     "permalink": "https://www.threads.com/@onaricreations/post/DgHtaIsHNy0",
     "insights": {
-     "views": 134,
+     "views": 135,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -655,7 +655,7 @@
     "text": "正直、家はほしい。 でも買うと、あとあと面倒やから考えてる。  子育て世帯が中古の家を買う時、フラット35の金利が優遇さ",
     "permalink": "https://www.threads.com/@onaricreations/post/Df9Z-CGFjU1",
     "insights": {
-     "views": 173,
+     "views": 174,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -711,7 +711,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14074,
+     "views": 14078,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -823,7 +823,7 @@
     "text": "実習生に、現場用語が伝わらない。  「開先とって」 「仮付けしといて」 「ケガキ線どこ？」  日本人の新人でも最初わから",
     "permalink": "https://www.threads.com/@onaricreations/post/DfjqO8OlYkH",
     "insights": {
-     "views": 329,
+     "views": 330,
      "likes": 2,
      "replies": 0,
      "reposts": 0,
@@ -851,7 +851,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5939,
+     "views": 5940,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -879,7 +879,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1702,
+     "views": 1703,
      "likes": 45,
      "replies": 3,
      "reposts": 0,
@@ -907,7 +907,7 @@
     "text": "金曜。今週も月曜から火花浴びた。  作業着、まじで穴だらけ。 最近の作業着、バリ高いしなぁ。  職人のみんな、最近の作業",
     "permalink": "https://www.threads.com/@onaricreations/post/DfYY5A2mmgE",
     "insights": {
-     "views": 422,
+     "views": 423,
      "likes": 3,
      "replies": 0,
      "reposts": 0,
@@ -921,7 +921,7 @@
     "text": "子どもによく言われる。 「お父さん、しんどそうな顔してる」  まじでしんどい。 けど、子どもの顔見ると諦められない。  ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfVuvQdGgzx",
     "insights": {
-     "views": 1791,
+     "views": 1792,
      "likes": 28,
      "replies": 6,
      "reposts": 0,
@@ -935,7 +935,7 @@
     "text": "火花の中だけは、借金を忘れられる。 正直、現実逃避ができる。  面を外した瞬間に、全部戻ってくる。  仕事中だけ無になれ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfTHUF7FWQt",
     "insights": {
-     "views": 1017,
+     "views": 1018,
      "likes": 11,
      "replies": 6,
      "reposts": 0,
@@ -949,7 +949,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6832,
+     "views": 6835,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -977,7 +977,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5717,
+     "views": 5719,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -991,7 +991,7 @@
     "text": "土曜の夜、今週をふり返る。  今週も、借金800万。 月曜から土曜まで、火花を浴びた。  それでも、面は上げない。 完済",
     "permalink": "https://www.threads.com/@onaricreations/post/DfIrMQvAeFc",
     "insights": {
-     "views": 198,
+     "views": 199,
      "likes": 1,
      "replies": 0,
      "reposts": 0,
@@ -1005,7 +1005,7 @@
     "text": "大雨の造船所。  雨でも、現場は止まらない。 借金も、止まってくれない。  だから今日も、火花を散らす。  🔥 保存して",
     "permalink": "https://www.threads.com/@onaricreations/post/DfGIlzHCuUU",
     "insights": {
-     "views": 180,
+     "views": 181,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -1019,7 +1019,7 @@
     "text": "休憩所で、外国人の後輩にアプリを見せた。  現場の溶接の知識を、ゲームにしたアプリ。 作ってるのは、借金800万の溶接工",
     "permalink": "https://www.threads.com/@onaricreations/post/DfDi6haAfUG",
     "insights": {
-     "views": 141,
+     "views": 142,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -1030,13 +1030,13 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-24T21:11+09:00",
+  "fetched_at": "2026-11-25T06:11+09:00",
   "page": {
-   "id": "1342658825601783",
-   "link": "https://www.facebook.com/1342658825601783",
    "name": "Debt Welder Japan - Onari Creations",
+   "followers_count": 1,
    "fan_count": 1,
-   "followers_count": 1
+   "link": "https://www.facebook.com/1342658825601783",
+   "id": "1342658825601783"
   },
   "page_insights": {
    "_error": "(#100) The value must be a valid insights metric"

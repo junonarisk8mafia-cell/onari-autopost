@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-24T21:11+09:00",
+  "fetched_at": "2026-11-25T06:11+09:00",
   "page": {
-    "id": "1342658825601783",
-    "link": "https://www.facebook.com/1342658825601783",
     "name": "Debt Welder Japan - Onari Creations",
+    "followers_count": 1,
     "fan_count": 1,
-    "followers_count": 1
+    "link": "https://www.facebook.com/1342658825601783",
+    "id": "1342658825601783"
   },
   "page_insights": {
     "_error": "(#100) The value must be a valid insights metric"
