@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T06:11+09:00",
+  "fetched_at": "2026-11-25T21:10+09:00",
   "page": {
     "name": "Debt Welder Japan - Onari Creations",
     "followers_count": 1,
@@ -197,6 +197,34 @@
       "length": 16.5,
       "permalink": "/reel/2019070735719325/",
       "description": "No warning. They just quit. 😶\n• In Japan, \"surprise quitting\" is rising: a worker seems fine, then one day says \"I quit.",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "4552139531675488",
+      "created_time": "2026-11-25T10:09:35+0000",
+      "length": 16.5,
+      "permalink": "/reel/4552139531675488/",
+      "description": "Wear your work clothes, get ramen for 70 yen 🍜\n• Nov 23 is Labor Thanksgiving Day in Japan, a holiday to thank all worke",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "1158394660036805",
+      "date": "2026-11-25",
+      "file": "fb_g_ramen.mp4",
+      "created_time": "2026-11-25T10:12:12+0000",
+      "length": 16.5,
+      "permalink": "/reel/1158394660036805/",
+      "description": "Wear your work clothes, get ramen for 70 yen 🍜\n• Nov 23 is Labor Thanksgiving Day in Japan, a holiday to thank all worke",
       "likes": 0,
       "comments": 0,
       "insights": {},
