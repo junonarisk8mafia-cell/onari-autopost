@@ -1,13 +1,31 @@
 {
- "fetched_at": "2026-11-26T06:09+09:00",
+ "fetched_at": "2026-11-26T21:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
    "followers_count": 16,
-   "media_count": 91,
+   "media_count": 92,
    "id": "28482597618057822"
   },
   "media": [
+   {
+    "id": "18131725498848408",
+    "time": "2026-11-26T10:10:14+0000",
+    "type": "VIDEO",
+    "caption": "リフォーム会社の倒産が、過去最多。  2026年1〜9月のリフォーム工事会社の倒産は96件。前の年より20%増えて、20",
+    "permalink": "https://www.instagram.com/reel/DgM24gwS8SF/",
+    "likes": 0,
+    "comments": 0,
+    "insights": {
+     "views": 62,
+     "reach": 56,
+     "likes": 0,
+     "comments": 0,
+     "shares": 0,
+     "saved": 0,
+     "total_interactions": 0
+    }
+   },
    {
     "id": "18122812195762512",
     "time": "2026-11-25T10:10:08+0000",
@@ -17,8 +35,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 133,
-     "reach": 112,
+     "views": 135,
+     "reach": 114,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -35,13 +53,13 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 218,
+     "views": 219,
      "reach": 197,
      "likes": 2,
      "comments": 0,
      "shares": 0,
      "saved": 0,
-     "total_interactions": 2
+     "total_interactions": 3
     }
    },
    {
@@ -53,13 +71,13 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 137,
+     "views": 138,
      "reach": 125,
      "likes": 0,
      "comments": 0,
      "shares": 0,
      "saved": 0,
-     "total_interactions": 0
+     "total_interactions": 1
     }
    },
    {
@@ -71,7 +89,7 @@
     "likes": 1,
     "comments": 0,
     "insights": {
-     "views": 144,
+     "views": 145,
      "reach": 124,
      "likes": 1,
      "comments": 0,
@@ -89,7 +107,7 @@
     "likes": 2,
     "comments": 0,
     "insights": {
-     "views": 123,
+     "views": 124,
      "reach": 113,
      "likes": 2,
      "comments": 0,
@@ -107,8 +125,8 @@
     "likes": 16,
     "comments": 0,
     "insights": {
-     "views": 3475,
-     "reach": 2678,
+     "views": 3495,
+     "reach": 2689,
      "likes": 16,
      "comments": 0,
      "shares": 2,
@@ -529,24 +547,6 @@
      "saved": 1,
      "total_interactions": 1
     }
-   },
-   {
-    "id": "18133245553748621",
-    "time": "2026-10-23T21:39:56+0000",
-    "type": "VIDEO",
-    "caption": "夜、口座アプリを開く。  残高を見た夜は、正直きつい。  それでも、面は上げない。 溶接面を下ろしたまま、完済の日まで手",
-    "permalink": "https://www.instagram.com/reel/De2iyhiDanW/",
-    "likes": 0,
-    "comments": 0,
-    "insights": {
-     "views": 165,
-     "reach": 138,
-     "likes": 0,
-     "comments": 0,
-     "shares": 0,
-     "saved": 0,
-     "total_interactions": 0
-    }
    }
   ]
  },
@@ -559,12 +559,12 @@
      "period": "day",
      "values": [
       {
-       "value": 177,
-       "end_time": "2026-11-24T08:00:00+0000"
+       "value": 87,
+       "end_time": "2026-11-25T08:00:00+0000"
       },
       {
-       "value": 78,
-       "end_time": "2026-11-25T08:00:00+0000"
+       "value": 493,
+       "end_time": "2026-11-26T08:00:00+0000"
       }
      ],
      "title": "views",
@@ -602,18 +602,32 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795468161&until=1795554561",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795640963&until=1795727363"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795522205&until=1795608605",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795695007&until=1795781407"
    }
   },
   "posts": [
+   {
+    "id": "18041383175903075",
+    "time": "2026-11-26T10:09:46+0000",
+    "text": "リフォーム会社の倒産が、今年1〜9月で96件。過去最多。 資材は高い、値引きは求められる。  仕事は続くって言われてる。",
+    "permalink": "https://www.threads.com/@onaricreations/post/DgM237PFl6a",
+    "insights": {
+     "views": 473,
+     "likes": 0,
+     "replies": 0,
+     "reposts": 0,
+     "quotes": 0,
+     "shares": 0
+    }
+   },
    {
     "id": "17969137100980355",
     "time": "2026-11-25T10:09:34+0000",
     "text": "SOSを出さずに、突然辞める「びっくり退職」が増えてるらしい。 辞めた人の54%は、本当の理由を会社に言わなかった。  ",
     "permalink": "https://www.threads.com/@onaricreations/post/DgKSDjlkQnz",
     "insights": {
-     "views": 66,
+     "views": 67,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -711,7 +725,7 @@
     "text": "冬のボーナス、6年連続で増えるらしい。  フリーランスの俺には、ボーナスは無い。  ボーナスある人は、何に使う？ ない人",
     "permalink": "https://www.threads.com/@onaricreations/post/Df1rpKOGxes",
     "insights": {
-     "views": 7261,
+     "views": 7262,
      "likes": 36,
      "replies": 15,
      "reposts": 0,
@@ -725,7 +739,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14084,
+     "views": 14088,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -739,7 +753,7 @@
     "text": "日曜。今週もなんとか終わった。  6日働いて、腰にきてる。  日曜の回復法、ひとつだけ教えて。",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfwh-t0lmMW",
     "insights": {
-     "views": 197,
+     "views": 198,
      "likes": 1,
      "replies": 2,
      "reposts": 0,
@@ -865,7 +879,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5941,
+     "views": 5945,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -893,7 +907,7 @@
     "text": "日曜。今週もなんとか終わった。  借金800万、毎月20万。数字は重いけど、ここに書くと少しだけ軽くなる。  今週がんば",
     "permalink": "https://www.threads.com/@onaricreations/post/Dfc9BoJGb-g",
     "insights": {
-     "views": 1703,
+     "views": 1706,
      "likes": 45,
      "replies": 3,
      "reposts": 0,
@@ -963,7 +977,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6844,
+     "views": 6847,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -1012,25 +1026,11 @@
      "quotes": 0,
      "shares": 0
     }
-   },
-   {
-    "id": "18475968877143572",
-    "time": "2026-10-29T22:58:53+0000",
-    "text": "大雨の造船所。  雨でも、現場は止まらない。 借金も、止まってくれない。  だから今日も、火花を散らす。  🔥 保存して",
-    "permalink": "https://www.threads.com/@onaricreations/post/DfGIlzHCuUU",
-    "insights": {
-     "views": 181,
-     "likes": 0,
-     "replies": 0,
-     "reposts": 0,
-     "quotes": 0,
-     "shares": 0
-    }
    }
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-26T06:09+09:00",
+  "fetched_at": "2026-11-26T21:10+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
@@ -1256,6 +1256,21 @@
     "length": 16.5,
     "permalink": "/reel/1158394660036805/",
     "description": "Wear your work clothes, get ramen for 70 yen 🍜\n• Nov 23 is Labor Thanksgiving Day in Japan, a holiday to thank all worke",
+    "likes": 0,
+    "comments": 0,
+    "insights": {},
+    "errors": {
+     "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+    }
+   },
+   {
+    "id": "1003218448973704",
+    "date": "2026-11-26",
+    "file": "fb_g_honya.mp4",
+    "created_time": "2026-11-26T10:09:42+0000",
+    "length": 16.5,
+    "permalink": "/reel/1003218448973704/",
+    "description": "Bookstore top 10: welding books — zero. 📚\nI checked a bookstore's weekly business bestsellers in Japan. 2 of the top 10 ",
     "likes": 0,
     "comments": 0,
     "insights": {},
