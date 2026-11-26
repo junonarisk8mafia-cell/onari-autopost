@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-26T21:09+09:00",
+ "fetched_at": "2026-11-27T06:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 62,
-     "reach": 56,
+     "views": 134,
+     "reach": 120,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -125,8 +125,8 @@
     "likes": 16,
     "comments": 0,
     "insights": {
-     "views": 3495,
-     "reach": 2689,
+     "views": 3497,
+     "reach": 2693,
      "likes": 16,
      "comments": 0,
      "shares": 2,
@@ -563,7 +563,7 @@
        "end_time": "2026-11-25T08:00:00+0000"
       },
       {
-       "value": 493,
+       "value": 568,
        "end_time": "2026-11-26T08:00:00+0000"
       }
      ],
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795522205&until=1795608605",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795695007&until=1795781407"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795554581&until=1795640981",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795727383&until=1795813783"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "リフォーム会社の倒産が、今年1〜9月で96件。過去最多。 資材は高い、値引きは求められる。  仕事は続くって言われてる。",
     "permalink": "https://www.threads.com/@onaricreations/post/DgM237PFl6a",
     "insights": {
-     "views": 473,
+     "views": 537,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -627,7 +627,7 @@
     "text": "SOSを出さずに、突然辞める「びっくり退職」が増えてるらしい。 辞めた人の54%は、本当の理由を会社に言わなかった。  ",
     "permalink": "https://www.threads.com/@onaricreations/post/DgKSDjlkQnz",
     "insights": {
-     "views": 67,
+     "views": 68,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -641,7 +641,7 @@
     "text": "勤労感謝の日、作業着で行けばラーメン70円の店があったらしい。 毎年10円ずつ下げて、2032年には10円を目指すとか。",
     "permalink": "https://www.threads.com/@onaricreations/post/DgHtaIsHNy0",
     "insights": {
-     "views": 137,
+     "views": 138,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -655,7 +655,7 @@
     "text": "今、俺が払ってるサブスクは、AIだけ。  その分、AIを相棒にして、溶接の仕事終わりにアプリを作ってる。 溶接の知識をク",
     "permalink": "https://www.threads.com/@onaricreations/post/DgCj6XxFsTX",
     "insights": {
-     "views": 83,
+     "views": 84,
      "likes": 1,
      "replies": 1,
      "reposts": 0,
@@ -669,7 +669,7 @@
     "text": "スペースXが、宇宙船を巨大なクレーンの腕で空中キャッチしたらしい。  それで思い出した。 イーロン・マスクが去年、ジョー",
     "permalink": "https://www.threads.com/@onaricreations/post/Df_-xqyoalB",
     "insights": {
-     "views": 79,
+     "views": 80,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -683,7 +683,7 @@
     "text": "正直、家はほしい。 でも買うと、あとあと面倒やから考えてる。  子育て世帯が中古の家を買う時、フラット35の金利が優遇さ",
     "permalink": "https://www.threads.com/@onaricreations/post/Df9Z-CGFjU1",
     "insights": {
-     "views": 174,
+     "views": 175,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -739,7 +739,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14088,
+     "views": 14091,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -879,7 +879,7 @@
     "text": "借金800万が、794万になった。 1か月で減ったのは6万。  このペースやと、単純計算で完済まで11年。 長すぎて、笑",
     "permalink": "https://www.threads.com/@onaricreations/post/DfhBokkm2uF",
     "insights": {
-     "views": 5945,
+     "views": 5946,
      "likes": 66,
      "replies": 11,
      "reposts": 0,
@@ -977,7 +977,7 @@
     "text": "毎月20万返して、元本が減るのは6万。 残りの14万は、借金に届かない。  まじで金無い。 財布の中、だいたい400円。",
     "permalink": "https://www.threads.com/@onaricreations/post/DfQscJgke2R",
     "insights": {
-     "views": 6847,
+     "views": 6849,
      "likes": 61,
      "replies": 24,
      "reposts": 0,
@@ -1030,7 +1030,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-26T21:10+09:00",
+  "fetched_at": "2026-11-27T06:09+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
