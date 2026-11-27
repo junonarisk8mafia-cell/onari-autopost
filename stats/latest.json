@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T21:09+09:00",
+ "fetched_at": "2026-11-28T06:09+09:00",
  "instagram": {
   "account": {
    "username": "onaricreations",
@@ -17,8 +17,8 @@
     "likes": 0,
     "comments": 0,
     "insights": {
-     "views": 21,
-     "reach": 12,
+     "views": 127,
+     "reach": 113,
      "likes": 0,
      "comments": 0,
      "shares": 0,
@@ -563,7 +563,7 @@
        "end_time": "2026-11-26T08:00:00+0000"
       },
       {
-       "value": 56,
+       "value": 66,
        "end_time": "2026-11-27T08:00:00+0000"
       }
      ],
@@ -602,8 +602,8 @@
     }
    ],
    "paging": {
-    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795608593&until=1795694993",
-    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795781395&until=1795867795"
+    "previous": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795640956&until=1795727356",
+    "next": "https://graph.threads.net/v1.0/17841416095292156/threads_insights?access_token=THAAhkZCW0jzc5BYlp3d2VkOXZAETS1fODlrd25jbDU1VVhTSWhDVzd1R0FyNnBZAMFNBdjFmR3pGRnBqUTg1NS1LbGxQS0FRcUlOZAHIzX1BLTWZAkYW1iZA2RmTllrZA2cxNEltdGs5bTRsT2RremNDTE9xYWVDMjlrMndZAaTRxa21NZADRJRklCQ2x4eV90dDNleFkZD&metric=views%2Clikes%2Creplies%2Cfollowers_count&since=1795813758&until=1795900158"
    }
   },
   "posts": [
@@ -613,7 +613,7 @@
     "text": "本屋のビジネス書ランキングを見てきた。 上位10冊のうち、AIの本が2冊。 溶接の本は、0冊。  AIで株、AIで仕事。",
     "permalink": "https://www.threads.com/@onaricreations/post/DgPbqxDlCXU",
     "insights": {
-     "views": 34,
+     "views": 41,
      "likes": 0,
      "replies": 0,
      "reposts": 0,
@@ -753,7 +753,7 @@
     "text": "仕事は続くって言われてる。 でも、まわりの造船所はどんどん撤退してる。  新しい船の注文、今年は8割以上が中国らしい。 ",
     "permalink": "https://www.threads.com/@onaricreations/post/DfzG0H1ltBR",
     "insights": {
-     "views": 14097,
+     "views": 14099,
      "likes": 56,
      "replies": 16,
      "reposts": 0,
@@ -1019,7 +1019,7 @@
     "text": "【速報】溶接、AIに奪われるらしい。  ファナックが「AI溶接エージェント」を発表。 図面を読んで、溶接の条件もロボット",
     "permalink": "https://www.threads.com/@onaricreations/post/DfODL3hmpcA",
     "insights": {
-     "views": 5721,
+     "views": 5722,
      "likes": 30,
      "replies": 11,
      "reposts": 0,
@@ -1030,7 +1030,7 @@
   ]
  },
  "facebook": {
-  "fetched_at": "2026-11-27T21:10+09:00",
+  "fetched_at": "2026-11-28T06:09+09:00",
   "page": {
    "name": "Debt Welder Japan - Onari Creations",
    "followers_count": 1,
