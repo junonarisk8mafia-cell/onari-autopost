@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T06:09+09:00",
+  "fetched_at": "2026-11-27T21:10+09:00",
   "page": {
     "name": "Debt Welder Japan - Onari Creations",
     "followers_count": 1,
@@ -240,6 +240,21 @@
       "length": 16.5,
       "permalink": "/reel/1003218448973704/",
       "description": "Bookstore top 10: welding books — zero. 📚\nI checked a bookstore's weekly business bestsellers in Japan. 2 of the top 10 ",
+      "likes": 0,
+      "comments": 0,
+      "insights": {},
+      "errors": {
+        "insights": "(#200) read_insights permission missing (https://developers.facebook.com/docs/permissions/reference/read_insights)"
+      }
+    },
+    {
+      "id": "1811453896752238",
+      "date": "2026-11-27",
+      "file": "fb_g_yago.mp4",
+      "created_time": "2026-11-27T10:09:44+0000",
+      "length": 16.5,
+      "permalink": "/reel/1811453896752238/",
+      "description": "I went to the tax office. 📄\nMy business name is now official: Onari Creations.\nDay: welding at a shipyard. Night: buildi",
       "likes": 0,
       "comments": 0,
       "insights": {},
